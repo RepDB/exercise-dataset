@@ -18,9 +18,9 @@
 [![Data](https://img.shields.io/badge/Data-JSON%20%2B%20WebP-blue?style=flat-square)](exercises.json)
 [![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20DE%20%7C%20ES-9cf?style=flat-square)](#multilingual)
 [![License](https://img.shields.io/badge/License-Free%20tier%20(attribution)-success?style=flat-square)](LICENSE-DATA.md)
-[![Premium assets](https://img.shields.io/badge/Premium%20assets-repdb.co-lightgrey?style=flat-square)](https://repdb.co/pricing/)
+[![RepDB](https://img.shields.io/badge/Explore-RepDB-lightgrey?style=flat-square)](https://repdb.co/)
 
-**[⬇️ Download the free ZIP →](https://cdn.repdb.co/repdb-assets/site/repdb-free.zip)** &nbsp;·&nbsp; **[🌐 Browse live →](https://exercise-dataset.com/)** &nbsp;·&nbsp; **[✨ Premium assets & license →](https://repdb.co/pricing/)**
+**[⬇️ Download the free ZIP →](https://cdn.repdb.co/repdb-assets/site/repdb-free.zip)** &nbsp;·&nbsp; **[🌐 Browse live →](https://exercise-dataset.com/)** &nbsp;·&nbsp; **[✨ Explore RepDB →](https://repdb.co/)**
 
 ⭐ **Useful for your project? [Star this repository](https://github.com/RepDB/exercise-dataset) to help other fitness developers find it.**
 
@@ -159,7 +159,7 @@ Example integrations (each vendors this dataset):
 
 ## Links
 
-- ✨ **Premium assets & pricing** — [repdb.co](https://repdb.co/pricing/)
+- ✨ **RepDB website** — [repdb.co](https://repdb.co/)
 - 🧪 **Live browser for this dataset** — https://exercise-dataset.com/
 - 📄 **One page per exercise** — muscles worked, equipment, instructions, tips and the raw JSON
   record, e.g. https://exercise-dataset.com/exercise/bulgarian-split-squat/
