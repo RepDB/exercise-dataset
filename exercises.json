@@ -3,8 +3,8 @@
   "homepage": "https://repdb.co",
   "license": "other (see LICENSE-DATA.md)",
   "schema_version": 3,
-  "count": 601,
-  "note": "Free public edition of 601 RepDB exercises. Paid bundles add classic style, premium assets, and an attribution-free commercial license at https://repdb.co.",
+  "count": 609,
+  "note": "Free public edition of 609 RepDB exercises. Paid bundles add classic style, premium assets, and an attribution-free commercial license at https://repdb.co.",
   "exercises": [
     {
       "id": "ab-wheel-rollout",
@@ -3344,8 +3344,8 @@
       "met": 6.0,
       "images": {
         "flat": {
-          "start": "images/flat/barbell-reverse-lunge-start.webp",
-          "peak": "images/flat/barbell-reverse-lunge-peak.webp"
+          "start": "images/flat/barbell-lunge-start.webp",
+          "peak": "images/flat/barbell-lunge-peak.webp"
         }
       }
     },
@@ -7842,6 +7842,86 @@
         "flat": {
           "start": "images/flat/cable-pallof-press-start.webp",
           "peak": "images/flat/cable-pallof-press-peak.webp"
+        }
+      }
+    },
+    {
+      "id": "cable-pull-through",
+      "name_en": "Cable Pull-Through",
+      "name_de": "Kabelzug-Pull-Through",
+      "name_es": "Pull-Through en Polea",
+      "description_en": "A cable-resisted hip hinge performed facing away from a low pulley, loading the glutes and hamstrings without placing a bar across the spine.",
+      "description_de": "Eine Hüftbeuge am tiefen Kabelzug mit dem Rücken zum Gerät, die Gesäß und Beinrückseite belastet, ohne eine Hantel auf der Wirbelsäule abzulegen.",
+      "description_es": "Una bisagra de cadera con resistencia de polea, de espaldas a una polea baja, que carga glúteos e isquiotibiales sin colocar una barra sobre la columna.",
+      "category": "strength",
+      "force_type": "pull",
+      "mechanic": "compound",
+      "difficulty": "intermediate",
+      "equipment": "cable",
+      "body_part": "upper_legs",
+      "primary_muscles": [
+        "gluteus_maximus",
+        "hamstrings"
+      ],
+      "secondary_muscles": [
+        "erector_spinae"
+      ],
+      "goals": [
+        "hypertrophy",
+        "strength"
+      ],
+      "tags": [
+        "leg_day",
+        "glute_focus",
+        "knee_safe",
+        "shoulder_safe",
+        "lower_back_safe",
+        "no_axial_load"
+      ],
+      "variation_group": "deadlift",
+      "is_unilateral": false,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Attach a rope to the low pulley and stand facing away from the machine with the rope between the legs.",
+        "Step forward until the cable is taut, then brace the trunk and soften the knees.",
+        "Push the hips back while keeping the spine neutral and the arms long.",
+        "Drive the hips forward and squeeze the glutes to stand tall.",
+        "Reverse into the next hinge without letting the weight stack slam down."
+      ],
+      "instructions_de": [
+        "Befestige ein Seil am tiefen Kabelzug und stell dich mit dem Rücken zum Gerät, das Seil läuft zwischen den Beinen.",
+        "Geh nach vorn, bis das Kabel gespannt ist, spann den Rumpf an und beug die Knie leicht.",
+        "Schieb die Hüfte nach hinten, die Wirbelsäule bleibt neutral und die Arme lang.",
+        "Drück die Hüfte nach vorn und spann das Gesäß an, bis du aufrecht stehst.",
+        "Geh kontrolliert in die nächste Hüftbeuge, ohne den Gewichtsblock aufschlagen zu lassen."
+      ],
+      "instructions_es": [
+        "Coloca una cuerda en la polea baja y ponte de espaldas a la máquina con la cuerda entre las piernas.",
+        "Avanza hasta tensar el cable, activa el tronco y flexiona ligeramente las rodillas.",
+        "Lleva las caderas hacia atrás manteniendo la columna neutra y los brazos largos.",
+        "Empuja las caderas hacia delante y contrae los glúteos hasta quedar erguido.",
+        "Vuelve de forma controlada a la siguiente bisagra sin dejar caer el bloque de pesas."
+      ],
+      "tips_en": [
+        "Think hips back and hips through; the arms only hold the rope.",
+        "Keep the shins nearly vertical so the movement stays a hinge rather than a squat.",
+        "Finish tall without leaning backwards at lockout."
+      ],
+      "tips_de": [
+        "Denk an Hüfte zurück und Hüfte vor; die Arme halten nur das Seil.",
+        "Halte die Schienbeine fast senkrecht, damit die Bewegung eine Hüftbeuge und keine Kniebeuge bleibt.",
+        "Beende die Bewegung aufrecht, ohne dich im Lockout nach hinten zu lehnen."
+      ],
+      "tips_es": [
+        "Piensa en caderas atrás y caderas adelante; los brazos solo sujetan la cuerda.",
+        "Mantén las tibias casi verticales para que siga siendo una bisagra y no una sentadilla.",
+        "Termina erguido sin inclinarte hacia atrás en el bloqueo."
+      ],
+      "met": 6.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/cable-pull-through-start.webp",
+          "peak": "images/flat/cable-pull-through-peak.webp"
         }
       }
     },
@@ -18040,8 +18120,8 @@
       "met": 6.0,
       "images": {
         "flat": {
-          "start": "images/flat/romanian-deadlift-start.webp",
-          "peak": "images/flat/romanian-deadlift-peak.webp"
+          "start": "images/flat/ez-bar-romanian-deadlift-start.webp",
+          "peak": "images/flat/ez-bar-romanian-deadlift-peak.webp"
         }
       }
     },
@@ -20528,6 +20608,82 @@
         "flat": {
           "start": "images/flat/heel-elevated-squat-start.webp",
           "peak": "images/flat/heel-elevated-squat-peak.webp"
+        }
+      }
+    },
+    {
+      "id": "heel-flicks",
+      "name_en": "Heel Flicks",
+      "name_de": "Anfersen",
+      "name_es": "Talones a los Glúteos",
+      "description_en": "A running warm-up drill that alternates the heels towards the glutes, raising the cadence while dynamically flexing the knees and preparing the hamstrings.",
+      "description_de": "Eine Lauf-Aufwärmübung, bei der die Fersen abwechselnd Richtung Gesäß schnellen, um die Schrittfrequenz zu erhöhen, die Knie dynamisch zu beugen und die Beinrückseite vorzubereiten.",
+      "description_es": "Un ejercicio de calentamiento de carrera que alterna los talones hacia los glúteos para aumentar la cadencia, flexionar dinámicamente las rodillas y preparar los isquiotibiales.",
+      "category": "cardio",
+      "force_type": "dynamic",
+      "mechanic": "compound",
+      "difficulty": "beginner",
+      "body_part": "full_body",
+      "primary_muscles": [
+        "hamstrings"
+      ],
+      "secondary_muscles": [
+        "gastrocnemius",
+        "gluteus_maximus",
+        "hip_flexors"
+      ],
+      "goals": [
+        "endurance"
+      ],
+      "tags": [
+        "cardio",
+        "conditioning",
+        "full_body",
+        "warm_up",
+        "bodyweight"
+      ],
+      "is_unilateral": false,
+      "is_bodyweight": true,
+      "instructions_en": [
+        "Stand tall with the feet under the hips and the arms bent as for running.",
+        "Begin jogging lightly in place.",
+        "Flick one heel up towards the same-side glute without driving the knee forward.",
+        "Switch feet quickly and continue alternating at an even rhythm.",
+        "Stay light on the forefeet and keep the torso upright for the full interval."
+      ],
+      "instructions_de": [
+        "Stell dich aufrecht hin, die Füße unter der Hüfte und die Arme wie beim Laufen gebeugt.",
+        "Beginn locker auf der Stelle zu laufen.",
+        "Zieh eine Ferse schnell zum gleichseitigen Gesäß, ohne das Knie nach vorn anzuheben.",
+        "Wechsle zügig den Fuß und halte einen gleichmäßigen Rhythmus.",
+        "Bleib leicht auf dem Vorfuß und halte den Oberkörper während des ganzen Intervalls aufrecht."
+      ],
+      "instructions_es": [
+        "Ponte erguido con los pies bajo las caderas y los brazos flexionados como al correr.",
+        "Empieza a trotar suavemente en el sitio.",
+        "Lleva un talón rápidamente hacia el glúteo del mismo lado sin impulsar la rodilla hacia delante.",
+        "Cambia de pie con rapidez y sigue alternando a un ritmo uniforme.",
+        "Mantente ligero sobre los antepiés y conserva el torso erguido durante todo el intervalo."
+      ],
+      "tips_en": [
+        "Aim for quick relaxed contacts rather than forcing the heel into the glute.",
+        "Keep the knees pointing down instead of lifting them like high knees.",
+        "Start slowly and increase cadence only after the rhythm feels smooth."
+      ],
+      "tips_de": [
+        "Arbeite mit schnellen, lockeren Kontakten, statt die Ferse gewaltsam ans Gesäß zu ziehen.",
+        "Lass die Knie nach unten zeigen, statt sie wie beim Kniehebelauf anzuheben.",
+        "Beginn langsam und erhöhe die Frequenz erst, wenn der Rhythmus flüssig ist."
+      ],
+      "tips_es": [
+        "Busca contactos rápidos y relajados en lugar de forzar el talón contra el glúteo.",
+        "Mantén las rodillas apuntando hacia abajo en vez de elevarlas como en las rodillas altas.",
+        "Empieza despacio y aumenta la cadencia solo cuando el ritmo sea fluido."
+      ],
+      "met": 8.0,
+      "images": {
+        "flat": {
+          "main": "images/flat/heel-flicks-main.webp"
         }
       }
     },
@@ -25775,6 +25931,84 @@
       }
     },
     {
+      "id": "lateral-leg-swing",
+      "name_en": "Lateral Leg Swing",
+      "name_de": "Seitliches Beinschwingen",
+      "name_es": "Balanceo Lateral de Pierna",
+      "description_en": "A dynamic hip-mobility drill in which one leg swings across the body and out to the side while the standing leg and trunk remain controlled.",
+      "description_de": "Eine dynamische Hüftmobilisation, bei der ein Bein vor dem Körper nach innen und anschließend zur Seite schwingt, während Standbein und Rumpf stabil bleiben.",
+      "description_es": "Un ejercicio dinámico de movilidad de cadera en el que una pierna cruza por delante del cuerpo y después se balancea hacia el lado mientras la pierna de apoyo y el tronco se mantienen controlados.",
+      "category": "stretching",
+      "force_type": "dynamic",
+      "mechanic": "isolation",
+      "difficulty": "beginner",
+      "body_part": "upper_legs",
+      "primary_muscles": [
+        "abductors",
+        "adductors"
+      ],
+      "secondary_muscles": [
+        "gluteus_medius",
+        "hip_flexors"
+      ],
+      "goals": [
+        "mobility",
+        "rehabilitation"
+      ],
+      "tags": [
+        "mobility",
+        "warm_up",
+        "leg_day",
+        "bodyweight"
+      ],
+      "variation_group": "leg-swing",
+      "is_unilateral": true,
+      "is_bodyweight": true,
+      "instructions_en": [
+        "Stand tall and brace the trunk, using a stable support if needed.",
+        "Shift the weight onto one leg and lift the other foot slightly from the floor.",
+        "Swing the free leg across the front of the body.",
+        "Reverse the motion and swing it out to the side through a comfortable range.",
+        "Continue smoothly, then change legs."
+      ],
+      "instructions_de": [
+        "Stell dich aufrecht hin, spann den Rumpf an und stütz dich bei Bedarf an einem stabilen Gegenstand ab.",
+        "Verlager das Gewicht auf ein Bein und heb den anderen Fuß leicht vom Boden.",
+        "Schwing das freie Bein vor dem Körper nach innen.",
+        "Wechsle die Richtung und schwing es in einem angenehmen Bewegungsumfang zur Seite.",
+        "Schwing flüssig weiter und wechsle anschließend das Bein."
+      ],
+      "instructions_es": [
+        "Ponte erguido, activa el tronco y usa un apoyo estable si lo necesitas.",
+        "Lleva el peso a una pierna y eleva ligeramente el otro pie del suelo.",
+        "Balancea la pierna libre cruzándola por delante del cuerpo.",
+        "Invierte el movimiento y llévala hacia el lado dentro de un rango cómodo.",
+        "Continúa con fluidez y después cambia de pierna."
+      ],
+      "tips_en": [
+        "Keep the pelvis facing forward instead of rotating with the swinging leg.",
+        "Use a range you can control without leaning the torso.",
+        "Let the movement grow gradually rather than forcing the first repetition."
+      ],
+      "tips_de": [
+        "Halte das Becken nach vorn gerichtet, statt es mit dem schwingenden Bein mitzudrehen.",
+        "Nutze nur den Bewegungsumfang, den du ohne Seitneigung des Oberkörpers kontrollierst.",
+        "Vergrößere die Bewegung allmählich, statt die erste Wiederholung zu erzwingen."
+      ],
+      "tips_es": [
+        "Mantén la pelvis orientada al frente en lugar de girarla con la pierna.",
+        "Usa un rango que puedas controlar sin inclinar el torso.",
+        "Amplía el movimiento de forma gradual en lugar de forzar la primera repetición."
+      ],
+      "met": 3.5,
+      "images": {
+        "flat": {
+          "start": "images/flat/lateral-leg-swing-start.webp",
+          "peak": "images/flat/lateral-leg-swing-peak.webp"
+        }
+      }
+    },
+    {
       "id": "lateral-raise",
       "name_en": "Dumbbell Lateral Raise",
       "name_de": "Kurzhantel Seitheben",
@@ -26072,6 +26306,84 @@
         "flat": {
           "start": "images/flat/leg-press-start.webp",
           "peak": "images/flat/leg-press-peak.webp"
+        }
+      }
+    },
+    {
+      "id": "leg-swing-front-to-back",
+      "name_en": "Front-to-Back Leg Swing",
+      "name_de": "Beinschwingen vor und zurück",
+      "name_es": "Balanceo de Pierna Adelante y Atrás",
+      "description_en": "A dynamic hip-mobility drill that swings one straight or softly bent leg forwards and backwards while the standing side stabilises the pelvis.",
+      "description_de": "Eine dynamische Hüftmobilisation, bei der ein gestrecktes oder leicht gebeugtes Bein vor und zurück schwingt, während die Standseite das Becken stabilisiert.",
+      "description_es": "Un ejercicio dinámico de movilidad de cadera que balancea una pierna recta o ligeramente flexionada hacia delante y hacia atrás mientras el lado de apoyo estabiliza la pelvis.",
+      "category": "stretching",
+      "force_type": "dynamic",
+      "mechanic": "isolation",
+      "difficulty": "beginner",
+      "body_part": "upper_legs",
+      "primary_muscles": [
+        "gluteus_maximus",
+        "hip_flexors"
+      ],
+      "secondary_muscles": [
+        "hamstrings",
+        "rectus_abdominis"
+      ],
+      "goals": [
+        "mobility",
+        "rehabilitation"
+      ],
+      "tags": [
+        "mobility",
+        "warm_up",
+        "leg_day",
+        "bodyweight"
+      ],
+      "variation_group": "leg-swing",
+      "is_unilateral": true,
+      "is_bodyweight": true,
+      "instructions_en": [
+        "Stand tall beside a stable support and shift the weight onto the inside leg.",
+        "Brace the trunk and lift the outside foot slightly from the floor.",
+        "Swing the free leg forwards through a comfortable range.",
+        "Let it travel back behind the body without arching the lower back.",
+        "Continue smoothly, then repeat with the other leg."
+      ],
+      "instructions_de": [
+        "Stell dich aufrecht neben eine stabile Stütze und verlagere das Gewicht auf das innere Bein.",
+        "Spann den Rumpf an und heb den äußeren Fuß leicht vom Boden.",
+        "Schwing das freie Bein in einem angenehmen Bewegungsumfang nach vorn.",
+        "Lass es hinter den Körper zurückschwingen, ohne den unteren Rücken zu überstrecken.",
+        "Schwing flüssig weiter und wiederhole die Übung anschließend mit dem anderen Bein."
+      ],
+      "instructions_es": [
+        "Ponte erguido junto a un apoyo estable y lleva el peso a la pierna interior.",
+        "Activa el tronco y eleva ligeramente el pie exterior del suelo.",
+        "Balancea la pierna libre hacia delante dentro de un rango cómodo.",
+        "Déjala viajar hacia atrás sin arquear la zona lumbar.",
+        "Continúa con fluidez y después repite con la otra pierna."
+      ],
+      "tips_en": [
+        "Keep the torso tall and let the movement come from the hip.",
+        "Use a small range first and increase it as the hip warms up.",
+        "Keep the standing foot planted and the pelvis facing forward."
+      ],
+      "tips_de": [
+        "Halte den Oberkörper aufrecht und lass die Bewegung aus der Hüfte kommen.",
+        "Beginn mit einem kleinen Bewegungsumfang und vergrößere ihn beim Aufwärmen.",
+        "Lass den Standfuß fest am Boden und das Becken nach vorn zeigen."
+      ],
+      "tips_es": [
+        "Mantén el torso erguido y deja que el movimiento salga de la cadera.",
+        "Empieza con un rango pequeño y auméntalo a medida que se calienta la cadera.",
+        "Conserva el pie de apoyo plantado y la pelvis orientada al frente."
+      ],
+      "met": 3.5,
+      "images": {
+        "flat": {
+          "start": "images/flat/leg-swing-front-to-back-start.webp",
+          "peak": "images/flat/leg-swing-front-to-back-peak.webp"
         }
       }
     },
@@ -29183,6 +29495,89 @@
       }
     },
     {
+      "id": "one-arm-seated-cable-row",
+      "name_en": "One-Arm Seated Cable Row",
+      "name_de": "Einarmiges Kabelrudern im Sitzen",
+      "name_es": "Remo Unilateral Sentado en Polea",
+      "description_en": "A unilateral seated cable row that trains the lats and upper back while the torso stays square and the working shoulder blade moves through a controlled reach and pull.",
+      "description_de": "Ein einseitiges Kabelrudern im Sitzen für Latissimus und oberen Rücken, bei dem der Rumpf gerade bleibt und sich das arbeitende Schulterblatt kontrolliert vor und zurück bewegt.",
+      "description_es": "Un remo unilateral sentado en polea para dorsales y espalda alta, manteniendo el torso de frente mientras el omóplato del lado activo avanza y retrocede de forma controlada.",
+      "category": "strength",
+      "force_type": "pull",
+      "mechanic": "compound",
+      "difficulty": "intermediate",
+      "equipment": "cable",
+      "body_part": "back",
+      "primary_muscles": [
+        "latissimus_dorsi",
+        "rhomboids"
+      ],
+      "secondary_muscles": [
+        "biceps_brachii",
+        "posterior_deltoid",
+        "trapezius"
+      ],
+      "goals": [
+        "hypertrophy",
+        "strength"
+      ],
+      "tags": [
+        "pull_day",
+        "back_day",
+        "back_focus",
+        "knee_safe",
+        "no_axial_load",
+        "lower_back_safe",
+        "shoulder_safe"
+      ],
+      "variation_group": "row",
+      "is_unilateral": true,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Sit at the cable row station and hold one handle with the working arm extended.",
+        "Plant the feet, sit tall and brace the trunk without leaning back.",
+        "Pull the handle towards the lower ribs while drawing the shoulder blade back.",
+        "Pause briefly without rotating the torso or shrugging the shoulder.",
+        "Extend the arm under control, finish the set and repeat on the other side."
+      ],
+      "instructions_de": [
+        "Setz dich an den Kabelzug und greif den Griff mit ausgestrecktem Arbeitsarm.",
+        "Stell die Füße fest auf, richte dich auf und spann den Rumpf an, ohne dich zurückzulehnen.",
+        "Zieh den Griff zu den unteren Rippen und führ das Schulterblatt nach hinten.",
+        "Halte kurz, ohne den Oberkörper zu verdrehen oder die Schulter hochzuziehen.",
+        "Streck den Arm kontrolliert, beende den Satz und wechsle die Seite."
+      ],
+      "instructions_es": [
+        "Siéntate en la estación de polea y sujeta el agarre con el brazo de trabajo extendido.",
+        "Apoya bien los pies, siéntate erguido y activa el tronco sin inclinarte hacia atrás.",
+        "Lleva el agarre hacia las costillas bajas mientras retraes el omóplato.",
+        "Haz una pausa breve sin girar el torso ni elevar el hombro.",
+        "Extiende el brazo de forma controlada, termina la serie y cambia de lado."
+      ],
+      "tips_en": [
+        "Keep both shoulders facing forward throughout the repetition.",
+        "Drive the elbow back close to the body rather than curling the handle.",
+        "Let the shoulder blade reach forward at the start without rounding the lower back."
+      ],
+      "tips_de": [
+        "Lass beide Schultern während der ganzen Wiederholung nach vorn zeigen.",
+        "Führ den Ellbogen dicht am Körper nach hinten, statt den Griff nur zu curlen.",
+        "Lass das Schulterblatt am Anfang nach vorn gleiten, ohne den unteren Rücken zu runden."
+      ],
+      "tips_es": [
+        "Mantén ambos hombros orientados al frente durante toda la repetición.",
+        "Lleva el codo hacia atrás cerca del cuerpo en lugar de flexionar solamente el brazo.",
+        "Deja que el omóplato avance al inicio sin redondear la zona lumbar."
+      ],
+      "met": 6.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/one-arm-seated-cable-row-start.webp",
+          "peak": "images/flat/one-arm-seated-cable-row-peak.webp"
+        }
+      }
+    },
+    {
       "id": "one-arm-single-leg-dumbbell-romanian-deadlift",
       "name_en": "One-Arm Single-Leg Dumbbell Romanian Deadlift",
       "name_de": "Einarmiges einbeiniges Kurzhantel-Romanian Deadlift",
@@ -29642,8 +30037,8 @@
       "met": 6.0,
       "images": {
         "flat": {
-          "start": "images/flat/deadlift-start.webp",
-          "peak": "images/flat/deadlift-peak.webp"
+          "start": "images/flat/pause-deadlift-start.webp",
+          "peak": "images/flat/pause-deadlift-peak.webp"
         }
       }
     },
@@ -30048,8 +30443,8 @@
       "met": 6.0,
       "images": {
         "flat": {
-          "start": "images/flat/ohp-start.webp",
-          "peak": "images/flat/ohp-peak.webp"
+          "start": "images/flat/paused-ohp-start.webp",
+          "peak": "images/flat/paused-ohp-peak.webp"
         }
       }
     },
@@ -31266,6 +31661,86 @@
       }
     },
     {
+      "id": "plank-knee-tuck",
+      "name_en": "Plank Knee Tuck",
+      "name_de": "Plank mit Knieanziehen",
+      "name_es": "Rodilla al Pecho en Plancha",
+      "description_en": "A moving core drill performed from a high plank: the body holds its straight line while one knee is drawn in under the chest and sent back, alternating sides. Slower and more controlled than a mountain climber, it trains the abdominals and hip flexors while the shoulders and trunk stay braced.",
+      "description_de": "Eine bewegte Rumpfübung aus der hohen Plank: der Körper bleibt in einer geraden Linie, während ein Knie unter die Brust gezogen und wieder zurückgeführt wird, im Wechsel. Langsamer und kontrollierter als ein Mountain Climber trainiert sie Bauchmuskulatur und Hüftbeuger, während Schultern und Rumpf angespannt bleiben.",
+      "description_es": "Un ejercicio dinámico de core desde la plancha alta: el cuerpo mantiene su línea recta mientras una rodilla se lleva bajo el pecho y vuelve al inicio, alternando lados. Más lento y controlado que un escalador, trabaja el abdomen y los flexores de cadera mientras hombros y tronco permanecen firmes.",
+      "category": "strength",
+      "force_type": "dynamic",
+      "mechanic": "compound",
+      "difficulty": "intermediate",
+      "body_part": "core",
+      "primary_muscles": [
+        "hip_flexors",
+        "rectus_abdominis"
+      ],
+      "secondary_muscles": [
+        "anterior_deltoid",
+        "obliques",
+        "serratus_anterior",
+        "transverse_abdominis"
+      ],
+      "goals": [
+        "endurance",
+        "strength"
+      ],
+      "tags": [
+        "core",
+        "calisthenics",
+        "knee_safe",
+        "no_axial_load"
+      ],
+      "variation_group": "plank",
+      "is_unilateral": false,
+      "is_bodyweight": true,
+      "instructions_en": [
+        "Set up in a high plank with the hands under the shoulders and the body in a straight line from head to heels.",
+        "Press the floor away and brace the trunk so the hips neither sag nor pike.",
+        "Draw one knee in towards the chest without letting the hips rise.",
+        "Extend the leg back to the starting position under control.",
+        "Repeat with the other leg and keep alternating for the desired number of repetitions."
+      ],
+      "instructions_de": [
+        "Geh in die hohe Plank, die Hände unter den Schultern und der Körper in einer geraden Linie von Kopf bis Ferse.",
+        "Druck den Boden weg und spann den Rumpf an, damit die Hüfte weder durchhängt noch nach oben ausweicht.",
+        "Zieh ein Knie unter die Brust, ohne dass die Hüfte nach oben wandert.",
+        "Streck das Bein kontrolliert zurück in die Ausgangsposition.",
+        "Wiederhole mit dem anderen Bein und wechsle weiter für die gewünschte Anzahl an Wiederholungen."
+      ],
+      "instructions_es": [
+        "Colócate en plancha alta con las manos bajo los hombros y el cuerpo en línea recta de la cabeza a los talones.",
+        "Empuja el suelo y aprieta el tronco para que la cadera no se hunda ni se eleve.",
+        "Lleva una rodilla hacia el pecho sin dejar que la cadera suba.",
+        "Extiende la pierna de vuelta a la posición inicial de forma controlada.",
+        "Repite con la otra pierna y sigue alternando las veces indicadas."
+      ],
+      "tips_en": [
+        "Keep the hips level with the shoulders; letting them lift turns this into a pike.",
+        "Pull the knee in with the abdominals rather than by hopping off the supporting foot.",
+        "Keep the shoulders stacked over the wrists and push the floor away so the upper body does not sink."
+      ],
+      "tips_de": [
+        "Halte die Hüfte auf Schulterhöhe; wandert sie nach oben, wird daraus ein Pike.",
+        "Zieh das Knie mit der Bauchmuskulatur heran, statt dich vom Standbein abzudrücken.",
+        "Halte die Schultern über den Handgelenken und druck den Boden weg, damit der Oberkörper nicht einsackt."
+      ],
+      "tips_es": [
+        "Mantén la cadera a la altura de los hombros; si sube, se convierte en una pica.",
+        "Lleva la rodilla con el abdomen en lugar de impulsarte con el pie de apoyo.",
+        "Mantén los hombros sobre las muñecas y empuja el suelo para que el tronco no se hunda."
+      ],
+      "met": 5.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/plank-knee-tuck-start.webp",
+          "peak": "images/flat/plank-knee-tuck-peak.webp"
+        }
+      }
+    },
+    {
       "id": "plate-loaded-donkey-calf-raise",
       "name_en": "Plate-Loaded Donkey Calf Raise",
       "name_de": "Esel-Wadenheben an der Maschine",
@@ -31938,8 +32413,8 @@
       "met": 7.0,
       "images": {
         "flat": {
-          "start": "images/flat/clap-push-ups-start.webp",
-          "peak": "images/flat/clap-push-ups-peak.webp"
+          "start": "images/flat/plyo-push-up-start.webp",
+          "peak": "images/flat/plyo-push-up-peak.webp"
         }
       }
     },
@@ -37792,6 +38267,87 @@
       }
     },
     {
+      "id": "ski-erg",
+      "name_en": "SkiErg",
+      "name_de": "SkiErg",
+      "name_es": "SkiErg",
+      "description_en": "A standing cardio exercise on a ski ergometer that combines a forceful double-pole pull with a small hip hinge to train full-body power and endurance.",
+      "description_de": "Eine stehende Cardioübung am Ski-Ergometer, die einen kraftvollen Doppelstockzug mit einer kleinen Hüftbeuge verbindet und so Ganzkörperleistung und Ausdauer trainiert.",
+      "description_es": "Un ejercicio cardiovascular de pie en un ergómetro de esquí que combina un potente tirón de doble bastón con una ligera bisagra de cadera para desarrollar potencia y resistencia de todo el cuerpo.",
+      "category": "cardio",
+      "force_type": "pull",
+      "mechanic": "compound",
+      "difficulty": "intermediate",
+      "equipment": "ski_erg",
+      "body_part": "full_body",
+      "primary_muscles": [
+        "latissimus_dorsi",
+        "rectus_abdominis",
+        "triceps_brachii"
+      ],
+      "secondary_muscles": [
+        "gluteus_maximus",
+        "hamstrings",
+        "quadriceps"
+      ],
+      "goals": [
+        "endurance",
+        "power"
+      ],
+      "tags": [
+        "cardio",
+        "conditioning",
+        "full_body",
+        "no_axial_load"
+      ],
+      "variation_group": "cardio",
+      "is_unilateral": false,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Stand facing the SkiErg with the handles overhead and the feet about hip-width apart.",
+        "Brace the trunk and drive the handles down by pulling with the lats while hinging slightly at the hips.",
+        "Finish with the hands beside the thighs and the knees softly bent.",
+        "Let the cords retract as you return the arms overhead and stand tall.",
+        "Repeat smoothly while keeping the heels planted and the torso controlled."
+      ],
+      "instructions_de": [
+        "Stell dich vor den SkiErg, die Griffe über dem Kopf und die Füße etwa hüftbreit.",
+        "Spann den Rumpf an und zieh die Griffe mit dem Latissimus nach unten, während du dich leicht aus der Hüfte vorbeugst.",
+        "Beende den Zug mit den Händen neben den Oberschenkeln und leicht gebeugten Knien.",
+        "Lass die Seile kontrolliert zurücklaufen, während du die Arme hebst und dich wieder aufrichtest.",
+        "Wiederhole die Bewegung flüssig, die Fersen bleiben am Boden und der Rumpf kontrolliert."
+      ],
+      "instructions_es": [
+        "Ponte frente al SkiErg con los agarres por encima de la cabeza y los pies separados al ancho de las caderas.",
+        "Activa el tronco y lleva los agarres hacia abajo tirando con los dorsales mientras haces una ligera bisagra de cadera.",
+        "Termina con las manos junto a los muslos y las rodillas suavemente flexionadas.",
+        "Deja que los cordones se recojan mientras elevas los brazos y vuelves a erguirte.",
+        "Repite con fluidez manteniendo los talones apoyados y el tronco controlado."
+      ],
+      "tips_en": [
+        "Lead the pull with the lats instead of turning it into an arm-only movement.",
+        "Keep the hinge compact; do not collapse into a deep squat.",
+        "Allow the handles to return under control so the cords stay taut."
+      ],
+      "tips_de": [
+        "Leite den Zug mit dem Latissimus ein, statt nur aus den Armen zu arbeiten.",
+        "Halte die Hüftbeuge kompakt und geh nicht in eine tiefe Kniebeuge.",
+        "Führe die Griffe kontrolliert zurück, damit die Seile gespannt bleiben."
+      ],
+      "tips_es": [
+        "Inicia el tirón con los dorsales en lugar de convertirlo en un movimiento solo de brazos.",
+        "Mantén la bisagra compacta y no bajes a una sentadilla profunda.",
+        "Controla el retorno de los agarres para mantener tensos los cordones."
+      ],
+      "met": 8.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/ski-erg-start.webp",
+          "peak": "images/flat/ski-erg-peak.webp"
+        }
+      }
+    },
+    {
       "id": "skull-crusher",
       "name_en": "Skull Crusher",
       "name_de": "Skull Crusher",
@@ -40349,8 +40905,8 @@
       "met": 5.0,
       "images": {
         "flat": {
-          "start": "images/flat/machine-calf-raise-start.webp",
-          "peak": "images/flat/machine-calf-raise-peak.webp"
+          "start": "images/flat/standing-calf-raise-start.webp",
+          "peak": "images/flat/standing-calf-raise-peak.webp"
         }
       }
     },
@@ -42529,6 +43085,80 @@
       }
     },
     {
+      "id": "torso-twists",
+      "name_en": "Torso Twists",
+      "name_de": "Rumpfdrehungen",
+      "name_es": "Giros de Torso",
+      "description_en": "A standing rotational warm-up that turns the rib cage from side to side while the pelvis stays comparatively stable, mobilising the thoracic spine and trunk.",
+      "description_de": "Eine stehende Rotationsübung zum Aufwärmen, bei der sich der Brustkorb von Seite zu Seite dreht, während das Becken vergleichsweise stabil bleibt und Brustwirbelsäule sowie Rumpf mobilisiert werden.",
+      "description_es": "Un calentamiento rotacional de pie que gira la caja torácica de un lado a otro mientras la pelvis permanece relativamente estable, movilizando la columna torácica y el tronco.",
+      "category": "stretching",
+      "force_type": "dynamic",
+      "mechanic": "compound",
+      "difficulty": "beginner",
+      "body_part": "core",
+      "primary_muscles": [
+        "obliques",
+        "transverse_abdominis"
+      ],
+      "secondary_muscles": [
+        "erector_spinae"
+      ],
+      "goals": [
+        "mobility"
+      ],
+      "tags": [
+        "mobility",
+        "warm_up",
+        "core",
+        "bodyweight"
+      ],
+      "is_unilateral": false,
+      "is_bodyweight": true,
+      "instructions_en": [
+        "Stand with the feet about shoulder-width apart and the knees softly bent.",
+        "Brace lightly and hold the hands together in front of the chest.",
+        "Rotate the rib cage to one side without shifting the feet.",
+        "Return through centre and rotate to the other side.",
+        "Continue alternating smoothly through a comfortable range."
+      ],
+      "instructions_de": [
+        "Stell dich etwa schulterbreit hin und beug die Knie leicht.",
+        "Spann den Rumpf locker an und halte die Hände vor der Brust zusammen.",
+        "Dreh den Brustkorb zu einer Seite, ohne die Füße zu verschieben.",
+        "Komm durch die Mitte zurück und dreh dich zur anderen Seite.",
+        "Wechsle flüssig in einem angenehmen Bewegungsumfang weiter."
+      ],
+      "instructions_es": [
+        "Ponte de pie con los pies separados al ancho de los hombros y las rodillas ligeramente flexionadas.",
+        "Activa suavemente el tronco y junta las manos frente al pecho.",
+        "Gira la caja torácica hacia un lado sin desplazar los pies.",
+        "Vuelve al centro y gira hacia el otro lado.",
+        "Sigue alternando con fluidez dentro de un rango cómodo."
+      ],
+      "tips_en": [
+        "Turn from the upper back rather than wrenching the lower spine.",
+        "Keep the hips mostly forward and distribute the weight evenly between the feet.",
+        "Use a controlled rhythm; this is mobility work, not a ballistic swing."
+      ],
+      "tips_de": [
+        "Dreh dich aus dem oberen Rücken, statt die Lendenwirbelsäule ruckartig zu verdrehen.",
+        "Halte die Hüfte weitgehend nach vorn und verteil das Gewicht gleichmäßig auf beide Füße.",
+        "Arbeite kontrolliert; das ist Mobilitätstraining und kein ballistisches Schwingen."
+      ],
+      "tips_es": [
+        "Gira desde la espalda alta en lugar de retorcer bruscamente la zona lumbar.",
+        "Mantén las caderas casi al frente y reparte el peso por igual entre ambos pies.",
+        "Usa un ritmo controlado; es movilidad, no un balanceo balístico."
+      ],
+      "met": 3.5,
+      "images": {
+        "flat": {
+          "main": "images/flat/torso-twists-main.webp"
+        }
+      }
+    },
+    {
       "id": "treadmill-running",
       "name_en": "Treadmill Running",
       "name_de": "Laufbandlauf",
@@ -44148,7 +44778,7 @@
       "description_de": "Ein statischer Rumpf-Halt im Gleichgewicht auf den Sitzbeinhöckern, bei dem Beine und Oberkörper zu einem V angehoben werden und Bauchmuskeln sowie Hüftbeuger fordern.",
       "description_es": "Un sostén estático del core en equilibrio sobre los isquiones, con las piernas y el torso elevados formando una V, que exige a los abdominales y los flexores de cadera.",
       "category": "strength",
-      "force_type": "push",
+      "force_type": "static",
       "mechanic": "compound",
       "difficulty": "intermediate",
       "body_part": "core",
