@@ -32,7 +32,7 @@
 
 <a href="https://repdb.co/preview/">
   <img src="premium-samples/bent-over-db-row.webp" width="260" alt="RepDB Standard: bent-over dumbbell row animation with muscle highlighting and a transparent background" />
-  <img src="premium-samples/dumbbell-farmers-walk-female.webp" width="260" alt="Dumbbell farmer's walk with the optional RepDB Female character" />
+  <img src="premium-samples/glute-bridge-female.webp" width="260" alt="Glute bridge with the optional RepDB Female character" />
 </a>
 
 Standard ships the male character; the optional **Female character add-on (+$99)** gives every exercise a female version.
