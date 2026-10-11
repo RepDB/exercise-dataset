@@ -133,23 +133,23 @@ Names, descriptions, instructions, and tips ship in **English, German, and Spani
 
 The [`premium-samples/`](premium-samples/) folder holds one **Standard-tier** showcase — classic stills plus a looping transparent-background animation, the same quality shown on [repdb.co](https://repdb.co/) — so you can judge paid assets before buying. They are **evaluation-only**: not for production use, not for redistribution (license term 6). See more exercises in the [animation preview](https://repdb.co/preview/).
 
-## Free vs. paid tiers
+## Free vs. Standard
 
 Counts checked **October 11, 2026**: this free snapshot contains **643 exercises**;
 the current paid catalog contains **643**. Standard includes motion animations for
 **519 exercises**; the other **124 exercises use static illustrations**.
-Paid tiers add richer assets and developer data, with no RepDB attribution required.
+The paid Standard tier adds richer assets and developer data, with no RepDB attribution required.
 
-| | **Free** (this repo) | [**Starter**](https://repdb.co/pricing/) | [**Standard**](https://repdb.co/pricing/) |
-|---|---|---|---|
-| Exercise set | 643 exercises in this public snapshot | 643 exercises | 643 exercises |
-| Still illustrations | flat style · solid background · 512×512 WebP | flat **+ classic** styles · 1024×1024 WebP | Starter **+ transparent classic backgrounds** |
-| Classic art direction | — | designed classic style with target-muscle highlighting | one consistent character with target-muscle highlighting, ready for any theme |
-| Animation | — | — | smooth looping motion for **519 exercises**, with transparent backgrounds |
-| Data & developer extras | JSON + WebP | JSON with activity metrics + relations graph | Starter **+ workout templates + AI embeddings** |
-| Languages | EN · DE · ES | EN · DE · ES · **FR** | EN · DE · ES · **FR** |
-| Female character | — | — | optional add-on (+$99): a female version of every Standard exercise |
-| Commercial license | visible RepDB attribution required; in-app use | use under your own brand, no attribution | use under your own brand, no attribution |
+| | **Free** (this repo) | [**Standard**](https://repdb.co/pricing/) |
+|---|---|---|
+| Exercise set | 643 exercises in this public snapshot | 643 exercises |
+| Still illustrations | flat style · solid background · 512×512 WebP | flat **+ classic** styles · 1024×1024 WebP, with transparent classic backgrounds |
+| Classic art direction | — | one consistent character with target-muscle highlighting, ready for any theme |
+| Animation | — | smooth looping motion for **519 exercises**, with transparent backgrounds |
+| Data & developer extras | JSON + WebP | JSON with activity metrics + relations graph, workout templates and AI embeddings |
+| Languages | EN · DE · ES | EN · DE · ES · **FR** |
+| Female character | — | optional add-on (+$99): a female version of every Standard exercise |
+| Commercial license | visible RepDB attribution required; in-app use | use under your own brand, no attribution |
 
 ➡️ **[Standard details & pricing](https://repdb.co/pricing/)** — one payment, no subscription, no API, no rate limits.
 
