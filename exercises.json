@@ -3,9 +3,84 @@
   "homepage": "https://repdb.co",
   "license": "other (see LICENSE-DATA.md)",
   "schema_version": 3,
-  "count": 643,
-  "note": "Free public edition of 643 RepDB exercises. Paid bundles add classic style, premium assets, and an attribution-free commercial license at https://repdb.co.",
+  "count": 650,
+  "note": "Free public edition of 650 RepDB exercises. Paid bundles add classic style, premium assets, and an attribution-free commercial license at https://repdb.co.",
   "exercises": [
+    {
+      "id": "90-90-hold",
+      "name_en": "90/90 Hold",
+      "name_de": "90/90-Sitz",
+      "name_es": "Estiramiento 90/90",
+      "description_en": "A seated hip mobility hold: both knees are bent to about 90 degrees, one leg in front of you and turned out, the other out to the side and turned in. Holding the position with your trunk upright stretches the outer hip of the front leg and the front of the hip of the back leg.",
+      "description_de": "Eine Halteposition im Sitzen für die Hüftmobilität: Beide Knie sind etwa 90 Grad gebeugt, ein Bein liegt vor dir und ist nach außen rotiert, das andere liegt seitlich und ist nach innen rotiert. Hältst du die Position mit aufrechtem Oberkörper, dehnt sie die äußere Hüfte des vorderen Beins und die Hüftvorderseite des hinteren Beins.",
+      "description_es": "Una postura de movilidad de cadera que se mantiene sentado en el suelo: las dos rodillas flexionadas a unos 90 grados, una pierna delante de ti y girada hacia fuera, y la otra a un lado y girada hacia dentro. Mantener la posición con el tronco erguido estira la parte externa de la cadera de la pierna delantera y la parte anterior de la cadera de la pierna trasera.",
+      "category": "stretching",
+      "force_type": "static",
+      "mechanic": "compound",
+      "difficulty": "beginner",
+      "body_part": "upper_legs",
+      "primary_muscles": [
+        "hip_flexors"
+      ],
+      "secondary_muscles": [
+        "gluteus_maximus",
+        "gluteus_medius"
+      ],
+      "goals": [
+        "mobility"
+      ],
+      "tags": [
+        "mobility",
+        "stretching"
+      ],
+      "is_unilateral": true,
+      "is_bodyweight": true,
+      "instructions_en": [
+        "Sit on the floor and bend your front leg in front of you so your shin runs across your body and your knee is bent to about 90 degrees.",
+        "Place your back leg out to the side with that knee also bent to about 90 degrees, shin pointing back.",
+        "Put your hands on the floor beside your hips for support.",
+        "Sit up tall, with your chest lifted and both sitting bones as close to the floor as you can manage.",
+        "Hold the position, breathing slowly, feeling the stretch in the outer hip of the front leg and the front of the hip of the back leg.",
+        "Hold for the planned time, then switch the legs and hold on the other side."
+      ],
+      "instructions_de": [
+        "Setze dich auf den Boden und beuge das vordere Bein vor dir, sodass dein Schienbein quer vor dem Körper liegt und das Knie etwa 90 Grad gebeugt ist.",
+        "Lege das hintere Bein seitlich ab, das Knie ebenfalls etwa 90 Grad gebeugt und das Schienbein nach hinten zeigend.",
+        "Stütze dich mit den Händen neben den Hüften auf dem Boden ab.",
+        "Richte dich auf, die Brust angehoben und beide Sitzbeinhöcker so nah am Boden, wie du es schaffst.",
+        "Halte die Position und atme langsam; du spürst die Dehnung in der äußeren Hüfte des vorderen Beins und an der Hüftvorderseite des hinteren Beins.",
+        "Halte für die geplante Zeit, wechsle dann die Beine und halte auf der anderen Seite."
+      ],
+      "instructions_es": [
+        "Siéntate en el suelo y flexiona la pierna delantera delante de ti, de modo que la espinilla quede cruzada frente al cuerpo y la rodilla flexionada a unos 90 grados.",
+        "Coloca la pierna trasera a un lado, con esa rodilla también flexionada a unos 90 grados y la espinilla apuntando hacia atrás.",
+        "Apoya las manos en el suelo a los lados de las caderas para sostenerte.",
+        "Siéntate erguido, con el pecho elevado y ambos isquiones lo más cerca del suelo que puedas.",
+        "Mantén la posición respirando despacio y nota el estiramiento en la parte externa de la cadera de la pierna delantera y en la parte anterior de la cadera de la pierna trasera.",
+        "Mantén la postura durante el tiempo previsto; luego intercambia las piernas y mantenla del otro lado."
+      ],
+      "tips_en": [
+        "Keep the trunk upright; slumping takes the stretch out of the hips.",
+        "If the hips are tight, keep more weight on your hands or sit on a folded towel until you can sit taller.",
+        "Ease into the stretch and do not force the knees down; the position should feel strong, not painful."
+      ],
+      "tips_de": [
+        "Halte den Oberkörper aufrecht; sackst du zusammen, geht die Dehnung aus der Hüfte verloren.",
+        "Ist die Hüfte steif, verlagere mehr Gewicht auf die Hände oder setze dich auf ein gefaltetes Handtuch, bis du aufrechter sitzen kannst.",
+        "Gehe behutsam in die Dehnung und drücke die Knie nicht mit Gewalt nach unten; die Position soll sich intensiv anfühlen, nicht schmerzhaft."
+      ],
+      "tips_es": [
+        "Mantén el tronco erguido; si te encorvas, el estiramiento deja de llegar a las caderas.",
+        "Si tienes las caderas rígidas, carga más peso en las manos o siéntate sobre una toalla doblada hasta que puedas sentarte más erguido.",
+        "Entra en el estiramiento poco a poco y no fuerces las rodillas hacia el suelo; la posición debe sentirse intensa, pero no dolorosa."
+      ],
+      "met": 5.0,
+      "images": {
+        "flat": {
+          "main": "images/flat/90-90-hold-main.webp"
+        }
+      }
+    },
     {
       "id": "ab-wheel-rollout",
       "name_en": "Ab Wheel Rollout",
@@ -8249,6 +8324,87 @@
       }
     },
     {
+      "id": "cable-reverse-fly",
+      "name_en": "Cable Reverse Fly",
+      "name_de": "Kabelzug Reverse Fly",
+      "name_es": "Apertura Inversa con Cable",
+      "description_en": "A standing cable exercise for the rear deltoids: facing the space between two cable towers, you hold the opposite handles with the cables crossed in front of you and sweep your arms out and back until they are level with your shoulders. The cables keep tension on the back of the shoulders through the whole arc.",
+      "description_de": "Eine Kabelzugübung im Stehen für die hinteren Schultermuskeln: Mit Blick in den Raum zwischen zwei Kabeltürmen hältst du die gegenüberliegenden Griffe, sodass sich die Kabel vor dir kreuzen, und führst die Arme nach außen und hinten, bis sie auf Schulterhöhe sind. Die Kabel halten die Spannung auf der Schulterrückseite über den gesamten Bogen.",
+      "description_es": "Un ejercicio de pie con cable para los deltoides posteriores: de cara al espacio entre dos torres de polea, sujetas las empuñaduras opuestas con los cables cruzados delante de ti y llevas los brazos hacia fuera y atrás hasta que quedan a la altura de los hombros. Los cables mantienen la tensión en la parte posterior de los hombros durante todo el arco.",
+      "category": "strength",
+      "force_type": "pull",
+      "mechanic": "isolation",
+      "difficulty": "intermediate",
+      "equipment": "cable",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "posterior_deltoid"
+      ],
+      "secondary_muscles": [
+        "rhomboids",
+        "trapezius"
+      ],
+      "goals": [
+        "hypertrophy"
+      ],
+      "tags": [
+        "pull_day",
+        "knee_safe",
+        "no_axial_load",
+        "lower_back_safe",
+        "shoulder_safe"
+      ],
+      "variation_group": "reverse-fly",
+      "is_unilateral": false,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Set both pulleys at about shoulder height and stand centred between the two cable towers.",
+        "Take the left handle in your right hand and the right handle in your left hand, so the cables cross in front of you.",
+        "Stand tall with your arms reaching forward at shoulder height and a slight bend in the elbows.",
+        "Sweep your arms out and back in a wide arc, leading with the elbows, until they are in line with your shoulders.",
+        "Squeeze your shoulder blades together briefly without arching your lower back.",
+        "Bring the handles back to the crossed start position slowly and repeat for the planned repetitions."
+      ],
+      "instructions_de": [
+        "Stelle beide Rollen auf etwa Schulterhöhe ein und stelle dich mittig zwischen die beiden Kabeltürme.",
+        "Nimm den linken Griff in die rechte Hand und den rechten Griff in die linke Hand, sodass sich die Kabel vor dir kreuzen.",
+        "Stelle dich aufrecht hin, die Arme auf Schulterhöhe nach vorn gestreckt und die Ellbogen leicht gebeugt.",
+        "Führe die Arme in einem weiten Bogen nach außen und hinten, die Ellbogen voran, bis sie auf einer Linie mit den Schultern sind.",
+        "Drücke die Schulterblätter kurz zusammen, ohne ins Hohlkreuz zu gehen.",
+        "Führe die Griffe langsam zurück in die gekreuzte Ausgangsposition und wiederhole für die geplante Anzahl an Wiederholungen."
+      ],
+      "instructions_es": [
+        "Coloca ambas poleas aproximadamente a la altura de los hombros y sitúate en el centro, entre las dos torres de polea.",
+        "Agarra la empuñadura izquierda con la mano derecha y la empuñadura derecha con la mano izquierda, de modo que los cables se crucen delante de ti.",
+        "Ponte erguido con los brazos estirados al frente a la altura de los hombros y una ligera flexión en los codos.",
+        "Lleva los brazos hacia fuera y atrás en un arco amplio, guiando el movimiento con los codos, hasta que queden en línea con los hombros.",
+        "Junta los omóplatos brevemente sin arquear la zona lumbar.",
+        "Devuelve las empuñaduras despacio a la posición inicial cruzada y repite el número de repeticiones previsto."
+      ],
+      "tips_en": [
+        "Keep the elbows soft and fixed; bending and straightening them turns the fly into a row.",
+        "Keep your shoulders down and your neck relaxed so the rear deltoids do the work, not the upper trapezius.",
+        "Use a light weight and a slow return; the cables pull hardest at the end of the arc, so control that position."
+      ],
+      "tips_de": [
+        "Halte die Ellbogen leicht gebeugt und fixiert; beugst und streckst du sie, wird aus dem Fly ein Rudern.",
+        "Halte die Schultern unten und den Nacken entspannt, damit die hinteren Schultermuskeln die Arbeit machen und nicht der obere Trapezmuskel.",
+        "Verwende ein leichtes Gewicht und führe langsam zurück; die Kabel ziehen am Ende des Bogens am stärksten, also kontrolliere diese Position."
+      ],
+      "tips_es": [
+        "Mantén los codos ligeramente flexionados y fijos; si los flexionas y extiendes, la apertura se convierte en un remo.",
+        "Mantén los hombros bajos y el cuello relajado para que trabajen los deltoides posteriores y no el trapecio superior.",
+        "Usa un peso ligero y un retorno lento; los cables tiran con más fuerza al final del arco, así que controla esa posición."
+      ],
+      "met": 5.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/cable-reverse-fly-start.webp",
+          "peak": "images/flat/cable-reverse-fly-peak.webp"
+        }
+      }
+    },
+    {
       "id": "cable-tricep-kickback",
       "name_en": "Cable Tricep Kickback",
       "name_de": "Kabelzug Trizeps-Kickback",
@@ -8401,9 +8557,9 @@
       "name_en": "Cable Wrist Curl",
       "name_de": "Kabelzug Handgelenks-Curl",
       "name_es": "Curl de Muñeca con Cable",
-      "description_en": "An isolation exercise flexing the wrists against cable resistance to strengthen the forearm flexors.",
-      "description_de": "Eine Unterarmübung am Kabelzug, bei der die Handgelenke mit aufliegenden Unterarmen gegen konstanten Zugwiderstand gebeugt werden.",
-      "description_es": "Un curl de muñeca en polea baja, con los antebrazos apoyados en un banco, que fortalece los flexores del antebrazo.",
+      "description_en": "An isolation exercise for the forearm flexors: seated on a flat bench with your forearms resting on your thighs, you hold a short bar attached to a low cable pulley in front of you and curl it up by flexing your wrists. The thighs keep the forearms still, so only the wrists move.",
+      "description_de": "Eine Isolationsübung für die Unterarmbeuger: Du sitzt auf einer Flachbank, die Unterarme liegen auf den Oberschenkeln, und hältst eine kurze Stange am unteren Kabelzug vor dir, die du durch Beugen der Handgelenke nach oben curlst. Die Oberschenkel halten die Unterarme ruhig, sodass sich nur die Handgelenke bewegen.",
+      "description_es": "Un ejercicio de aislamiento para los flexores del antebrazo: sentado en un banco plano con los antebrazos apoyados en los muslos, sujetas una barra corta enganchada a una polea baja delante de ti y la subes flexionando las muñecas. Los muslos mantienen quietos los antebrazos, de modo que solo se mueven las muñecas.",
       "category": "strength",
       "force_type": "pull",
       "mechanic": "isolation",
@@ -8426,40 +8582,43 @@
       "is_unilateral": false,
       "is_bodyweight": false,
       "instructions_en": [
-        "Attach a straight bar to a low cable pulley.",
-        "Kneel or sit with forearms on a bench, palms facing up.",
-        "Let your wrists flex off the bench edge.",
-        "Curl the bar up by flexing your wrists.",
-        "Lower under control and repeat."
+        "Attach a short straight bar to a low cable pulley and sit on a flat bench facing the pulley, feet flat on the floor.",
+        "Take the bar with an underhand grip, palms facing up, hands about shoulder-width apart.",
+        "Rest your forearms on your thighs so that your wrists and hands reach just past your knees.",
+        "Let the cable pull your wrists down until you feel a stretch in your forearms.",
+        "Curl the bar up by flexing your wrists, keeping your forearms on your thighs.",
+        "Lower the bar under control and repeat for the planned repetitions."
       ],
       "instructions_de": [
-        "Befestige eine gerade Stange am unteren Kabelzug.",
-        "Knie oder sitze mit Unterarmen auf einer Bank, Handflächen nach oben.",
-        "Lass die Handgelenke über die Bankkante hängen.",
-        "Hebe die Stange durch Beugen der Handgelenke.",
-        "Kontrolliert senken und wiederhole."
+        "Befestige eine kurze gerade Stange am unteren Kabelzug und setze dich mit Blick zur Rolle auf eine Flachbank, die Füße flach auf dem Boden.",
+        "Greife die Stange im Untergriff, die Handflächen zeigen nach oben, die Hände etwa schulterbreit.",
+        "Lege die Unterarme so auf die Oberschenkel, dass Handgelenke und Hände knapp über die Knie hinausragen.",
+        "Lass die Handgelenke vom Kabel nach unten ziehen, bis du eine Dehnung in den Unterarmen spürst.",
+        "Curle die Stange durch Beugen der Handgelenke nach oben und lass die Unterarme dabei auf den Oberschenkeln.",
+        "Senke die Stange kontrolliert ab und wiederhole für die geplante Anzahl an Wiederholungen."
       ],
       "instructions_es": [
-        "Engancha una barra recta a la polea baja.",
-        "Arrodíllate o siéntate con los antebrazos sobre un banco, palmas hacia arriba.",
-        "Deja que las muñecas se flexionen sobre el borde del banco.",
-        "Sube la barra flexionando las muñecas.",
-        "Baja de forma controlada y repite."
+        "Engancha una barra recta corta a una polea baja y siéntate en un banco plano mirando hacia la polea, con los pies apoyados en el suelo.",
+        "Agarra la barra en supinación, con las palmas hacia arriba y las manos más o menos a la anchura de los hombros.",
+        "Apoya los antebrazos en los muslos de forma que las muñecas y las manos sobresalgan justo por delante de las rodillas.",
+        "Deja que el cable lleve las muñecas hacia abajo hasta notar un estiramiento en los antebrazos.",
+        "Sube la barra flexionando las muñecas, manteniendo los antebrazos sobre los muslos.",
+        "Baja la barra con control y repite el número de repeticiones previsto."
       ],
       "tips_en": [
-        "Move only at the wrists; keep your forearms pressed into the bench.",
+        "Move only at the wrists; keep your forearms pressed against your thighs.",
         "Perform the reps slowly to avoid straining your wrists.",
         "Pause briefly at the top of each rep for a stronger contraction."
       ],
       "tips_de": [
-        "Bewege ausschließlich die Handgelenke, die Unterarme bleiben fest auf der Bank.",
-        "Wähle ein leichtes Gewicht und steigere dich langsam.",
-        "Arbeite über die volle Bewegungsweite, ohne Schwung zu holen."
+        "Bewege nur die Handgelenke; drücke die Unterarme fest gegen die Oberschenkel.",
+        "Führe die Wiederholungen langsam aus, um die Handgelenke nicht zu überlasten.",
+        "Halte oben in jeder Wiederholung kurz inne, um die Kontraktion zu verstärken."
       ],
       "tips_es": [
-        "Mueve solo las muñecas, sin levantar los antebrazos del banco.",
-        "Usa cargas moderadas para no castigar las muñecas.",
-        "Sube y baja despacio, sin rebotes en el estiramiento."
+        "Mueve solo las muñecas; mantén los antebrazos presionados contra los muslos.",
+        "Haz las repeticiones despacio para no sobrecargar las muñecas.",
+        "Haz una breve pausa arriba en cada repetición para una contracción más fuerte."
       ],
       "met": 5.0,
       "images": {
@@ -11744,6 +11903,87 @@
         "flat": {
           "start": "images/flat/crunches-start.webp",
           "peak": "images/flat/crunches-peak.webp"
+        }
+      }
+    },
+    {
+      "id": "cycling",
+      "name_en": "Cycling",
+      "name_de": "Radfahren",
+      "name_es": "Ciclismo",
+      "description_en": "Riding a road bicycle, used as steady endurance cardio. Seated on the saddle with your hands on the handlebars, you pedal in smooth circles; the thighs drive each pedal stroke, while the glutes, hamstrings and calves complete it.",
+      "description_de": "Fahren auf dem Rennrad als gleichmäßiges Ausdauertraining. Du sitzt im Sattel, die Hände am Lenker, und trittst in runden, gleichmäßigen Kreisen; die Oberschenkel treiben jeden Pedaltritt an, während Gesäß, Beinbeuger und Waden ihn zu Ende führen.",
+      "description_es": "Montar en bicicleta de carretera como cardio de resistencia a ritmo constante. Sentado en el sillín con las manos en el manillar, pedaleas en círculos suaves; los muslos impulsan cada pedalada, mientras que los glúteos, los isquiotibiales y las pantorrillas la completan.",
+      "category": "cardio",
+      "force_type": "push",
+      "mechanic": "compound",
+      "difficulty": "beginner",
+      "equipment": "bicycle",
+      "body_part": "upper_legs",
+      "primary_muscles": [
+        "quadriceps"
+      ],
+      "secondary_muscles": [
+        "gastrocnemius",
+        "gluteus_maximus",
+        "hamstrings",
+        "soleus"
+      ],
+      "goals": [
+        "endurance"
+      ],
+      "tags": [
+        "conditioning",
+        "leg_day",
+        "no_axial_load",
+        "knee_safe",
+        "lower_back_safe"
+      ],
+      "is_unilateral": false,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Adjust the saddle so your knee is only slightly bent when the pedal is at the bottom of the stroke.",
+        "Sit on the saddle with your hands on the handlebars, elbows slightly bent and shoulders relaxed.",
+        "Place the balls of your feet over the pedal axles.",
+        "Push each pedal down and forward, then let it come up and over the top in a smooth circle.",
+        "Keep a steady cadence and choose a gear that lets you pedal without bouncing on the saddle.",
+        "Ride for the planned time or distance, easing the pace for the last few minutes to cool down."
+      ],
+      "instructions_de": [
+        "Stelle den Sattel so ein, dass dein Knie nur leicht gebeugt ist, wenn das Pedal am tiefsten Punkt der Kurbelumdrehung steht.",
+        "Setze dich in den Sattel, die Hände am Lenker, die Ellbogen leicht gebeugt und die Schultern entspannt.",
+        "Setze die Fußballen über die Pedalachsen.",
+        "Drücke jedes Pedal nach unten und vorn und lass es dann in einem runden Kreis nach oben und über den höchsten Punkt kommen.",
+        "Halte eine gleichmäßige Trittfrequenz und wähle einen Gang, in dem du treten kannst, ohne im Sattel zu hüpfen.",
+        "Fahre die geplante Zeit oder Distanz und nimm in den letzten Minuten das Tempo heraus, um locker auszufahren."
+      ],
+      "instructions_es": [
+        "Ajusta el sillín para que la rodilla quede solo ligeramente flexionada cuando el pedal esté en el punto más bajo de la pedalada.",
+        "Siéntate en el sillín con las manos en el manillar, los codos ligeramente flexionados y los hombros relajados.",
+        "Coloca los metatarsos sobre los ejes de los pedales.",
+        "Empuja cada pedal hacia abajo y hacia delante, y luego deja que suba y pase por arriba en un círculo suave.",
+        "Mantén una cadencia constante y elige una marcha que te permita pedalear sin rebotar en el sillín.",
+        "Pedalea durante el tiempo o la distancia previstos, bajando el ritmo en los últimos minutos para volver a la calma."
+      ],
+      "tips_en": [
+        "Keep your knees tracking in line with your feet; knees that fall in or out usually mean the saddle or cleats need adjusting.",
+        "A higher cadence in an easier gear is kinder to the knees than grinding a hard gear slowly.",
+        "Keep your upper body relaxed and your back long rather than rounded or rocking from side to side."
+      ],
+      "tips_de": [
+        "Halte die Knie in einer Linie mit den Füßen; fallen die Knie nach innen oder außen, müssen meist Sattel oder Cleats eingestellt werden.",
+        "Eine höhere Trittfrequenz in einem leichteren Gang schont die Knie mehr, als einen schweren Gang langsam durchzudrücken.",
+        "Halte den Oberkörper entspannt und den Rücken lang, statt einen runden Rücken zu machen oder seitlich hin und her zu schaukeln."
+      ],
+      "tips_es": [
+        "Mantén las rodillas en línea con los pies; si las rodillas se van hacia dentro o hacia fuera, normalmente hay que ajustar el sillín o las calas.",
+        "Una cadencia más alta con una marcha más suave cuida más las rodillas que mover despacio una marcha dura.",
+        "Mantén el tren superior relajado y la espalda larga, en lugar de encorvada o balanceándose de lado a lado."
+      ],
+      "met": 8.0,
+      "images": {
+        "flat": {
+          "main": "images/flat/cycling-main.webp"
         }
       }
     },
@@ -27614,6 +27854,81 @@
       }
     },
     {
+      "id": "lean-back-90-90-hold",
+      "name_en": "Lean-Back 90/90 Hold",
+      "name_de": "Zurückgelehnter 90/90-Sitz",
+      "name_es": "Estiramiento 90/90 Inclinado Hacia Atrás",
+      "description_en": "A gentler version of the 90/90 hip hold: from the same 90/90 leg position, you lean your trunk back and support it on your hands behind you. Leaning back takes some load off the hips while keeping the front leg turned out and the back leg turned in.",
+      "description_de": "Eine sanftere Variante des 90/90-Sitzes für die Hüfte: Aus derselben 90/90-Beinposition lehnst du den Oberkörper zurück und stützt ihn mit den Händen hinter dir ab. Das Zurücklehnen nimmt etwas Last von der Hüfte, während das vordere Bein nach außen und das hintere Bein nach innen rotiert bleibt.",
+      "description_es": "Una versión más suave del estiramiento 90/90 de cadera: desde la misma posición 90/90 de las piernas, inclinas el tronco hacia atrás y lo apoyas sobre las manos detrás de ti. Inclinarte hacia atrás quita parte de la carga de las caderas mientras la pierna delantera sigue girada hacia fuera y la trasera girada hacia dentro.",
+      "category": "stretching",
+      "force_type": "static",
+      "mechanic": "compound",
+      "difficulty": "beginner",
+      "body_part": "upper_legs",
+      "primary_muscles": [
+        "hip_flexors"
+      ],
+      "secondary_muscles": [
+        "gluteus_maximus",
+        "gluteus_medius"
+      ],
+      "goals": [
+        "mobility"
+      ],
+      "tags": [
+        "mobility",
+        "stretching"
+      ],
+      "is_unilateral": true,
+      "is_bodyweight": true,
+      "instructions_en": [
+        "Sit on the floor with your front leg bent in front of you to about 90 degrees and your back leg out to the side, also bent to about 90 degrees.",
+        "Place your hands on the floor behind your hips, fingers pointing back or to the side.",
+        "Lean your trunk back onto your hands, keeping your arms straight and your chest open.",
+        "Let both knees settle toward the floor without forcing them.",
+        "Hold the position, breathing slowly, feeling a mild stretch in the outer hip of the front leg and the front of the hip of the back leg.",
+        "Hold for the planned time, then switch the legs and hold on the other side."
+      ],
+      "instructions_de": [
+        "Setze dich auf den Boden, das vordere Bein vor dir etwa 90 Grad gebeugt und das hintere Bein seitlich, ebenfalls etwa 90 Grad gebeugt.",
+        "Setze die Hände hinter den Hüften auf den Boden, die Finger zeigen nach hinten oder zur Seite.",
+        "Lehne den Oberkörper zurück auf die Hände, die Arme gestreckt und die Brust offen.",
+        "Lass beide Knie Richtung Boden sinken, ohne sie hinunterzudrücken.",
+        "Halte die Position und atme langsam; du spürst eine leichte Dehnung in der äußeren Hüfte des vorderen Beins und an der Hüftvorderseite des hinteren Beins.",
+        "Halte für die geplante Zeit, wechsle dann die Beine und halte auf der anderen Seite."
+      ],
+      "instructions_es": [
+        "Siéntate en el suelo con la pierna delantera flexionada delante de ti a unos 90 grados y la pierna trasera a un lado, también flexionada a unos 90 grados.",
+        "Apoya las manos en el suelo detrás de las caderas, con los dedos apuntando hacia atrás o hacia los lados.",
+        "Inclina el tronco hacia atrás sobre las manos, manteniendo los brazos estirados y el pecho abierto.",
+        "Deja que ambas rodillas bajen hacia el suelo sin forzarlas.",
+        "Mantén la posición respirando despacio y nota un estiramiento suave en la parte externa de la cadera de la pierna delantera y en la parte anterior de la cadera de la pierna trasera.",
+        "Mantén la postura durante el tiempo previsto; luego intercambia las piernas y mantenla del otro lado."
+      ],
+      "tips_en": [
+        "Use this version when the upright 90/90 is too intense; lean further back on your hands to ease the stretch.",
+        "Keep your shoulders down and away from your ears rather than hanging on your arms.",
+        "Move slowly into the position and keep it pain-free, especially at the knees."
+      ],
+      "tips_de": [
+        "Nutze diese Variante, wenn der aufrechte 90/90-Sitz zu intensiv ist; lehne dich weiter auf die Hände zurück, um die Dehnung abzuschwächen.",
+        "Halte die Schultern unten und weg von den Ohren, statt dich in die Arme zu hängen.",
+        "Gehe langsam in die Position und halte sie schmerzfrei, besonders an den Knien."
+      ],
+      "tips_es": [
+        "Usa esta versión cuando el 90/90 erguido resulte demasiado intenso; inclínate más hacia atrás sobre las manos para suavizar el estiramiento.",
+        "Mantén los hombros bajos y alejados de las orejas en lugar de colgarte de los brazos.",
+        "Entra en la posición despacio y mantenla sin dolor, sobre todo en las rodillas."
+      ],
+      "met": 5.0,
+      "images": {
+        "flat": {
+          "main": "images/flat/lean-back-90-90-hold-main.webp"
+        }
+      }
+    },
+    {
       "id": "leg-curl",
       "name_en": "Lying Leg Curl",
       "name_de": "Liegender Beinbeuger",
@@ -29207,6 +29522,88 @@
       }
     },
     {
+      "id": "medicine-ball-side-throw",
+      "name_en": "Medicine Ball Side Throw",
+      "name_de": "Medizinball-Seitwurf",
+      "name_es": "Lanzamiento Lateral con Balón Medicinal",
+      "description_en": "A rotational power exercise: standing side-on with a medicine ball held at your hip, you turn your hips and torso and throw the ball out to the side with both hands. The obliques and the rest of the trunk turn the body, and the hips start the rotation.",
+      "description_de": "Eine Rotationsübung für Schnellkraft: Seitlich zur Wurfrichtung stehend, den Medizinball an der Hüfte, drehst du Hüfte und Oberkörper und wirfst den Ball mit beiden Händen zur Seite. Die schrägen Bauchmuskeln und der übrige Rumpf drehen den Körper, und die Hüfte leitet die Rotation ein.",
+      "description_es": "Un ejercicio de potencia rotacional: de pie y de lado, con un balón medicinal sujeto a la altura de la cadera, giras las caderas y el torso y lanzas el balón hacia un lado con ambas manos. Los oblicuos y el resto del tronco giran el cuerpo, y las caderas inician la rotación.",
+      "category": "strength",
+      "force_type": "dynamic",
+      "mechanic": "compound",
+      "difficulty": "beginner",
+      "equipment": "medicine_ball",
+      "body_part": "core",
+      "primary_muscles": [
+        "obliques"
+      ],
+      "secondary_muscles": [
+        "anterior_deltoid",
+        "gluteus_maximus",
+        "pectoralis_major",
+        "rectus_abdominis"
+      ],
+      "goals": [
+        "power",
+        "core"
+      ],
+      "tags": [
+        "core",
+        "core_focus",
+        "ballistic"
+      ],
+      "variation_group": "ball-slam",
+      "is_unilateral": true,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Stand with your feet a little wider than shoulder-width, holding a medicine ball with both hands in front of your torso.",
+        "Turn your torso and the ball toward your back hip, bending your knees slightly and keeping your chest up.",
+        "Start the throw by turning your back hip forward and pivoting on the ball of your back foot.",
+        "Let your torso and arms follow, throwing the ball out to the side with both hands.",
+        "Finish facing the direction of the throw with your arms extended.",
+        "Retrieve the ball, reset, and repeat for the planned repetitions, then switch sides."
+      ],
+      "instructions_de": [
+        "Stelle dich etwas weiter als schulterbreit hin und halte einen Medizinball mit beiden Händen vor dem Oberkörper.",
+        "Drehe Oberkörper und Ball zur hinteren Hüfte, beuge die Knie leicht und halte die Brust oben.",
+        "Leite den Wurf ein, indem du die hintere Hüfte nach vorn drehst und den hinteren Fuß auf dem Ballen eindrehst.",
+        "Lass Oberkörper und Arme folgen und wirf den Ball mit beiden Händen zur Seite.",
+        "Beende die Bewegung mit Blick in Wurfrichtung und gestreckten Armen.",
+        "Hole den Ball, nimm die Ausgangsposition wieder ein und wiederhole für die geplante Anzahl an Wiederholungen, wechsle dann die Seite."
+      ],
+      "instructions_es": [
+        "Ponte de pie con los pies algo más separados que el ancho de los hombros, sujetando un balón medicinal con ambas manos delante del torso.",
+        "Gira el torso y el balón hacia la cadera trasera, flexionando ligeramente las rodillas y manteniendo el pecho alto.",
+        "Inicia el lanzamiento girando la cadera trasera hacia delante y pivotando sobre el metatarso del pie trasero.",
+        "Deja que el torso y los brazos sigan el movimiento y lanza el balón hacia un lado con ambas manos.",
+        "Termina de cara a la dirección del lanzamiento con los brazos extendidos.",
+        "Recupera el balón, vuelve a colocarte y repite el número de repeticiones previsto; luego cambia de lado."
+      ],
+      "tips_en": [
+        "Start the throw from the hips, not the arms; the trunk and arms should follow the hip turn.",
+        "Throw explosively, but keep your back neutral as you rotate rather than bending sideways.",
+        "Use a ball light enough to throw fast; a heavy ball slows the rotation and turns it into a push."
+      ],
+      "tips_de": [
+        "Leite den Wurf aus der Hüfte ein, nicht aus den Armen; Rumpf und Arme sollten der Hüftdrehung folgen.",
+        "Wirf explosiv, halte den Rücken beim Drehen aber neutral, statt dich seitlich zu beugen.",
+        "Verwende einen Ball, der leicht genug ist, um ihn schnell zu werfen; ein schwerer Ball bremst die Rotation und macht aus dem Wurf ein Stoßen."
+      ],
+      "tips_es": [
+        "Inicia el lanzamiento desde las caderas, no desde los brazos; el tronco y los brazos deben seguir el giro de la cadera.",
+        "Lanza de forma explosiva, pero mantén la espalda neutra mientras giras, en lugar de inclinarte hacia un lado.",
+        "Usa un balón lo bastante ligero para lanzarlo rápido; un balón pesado ralentiza la rotación y la convierte en un empuje."
+      ],
+      "met": 6.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/medicine-ball-side-throw-start.webp",
+          "peak": "images/flat/medicine-ball-side-throw-peak.webp"
+        }
+      }
+    },
+    {
       "id": "medicine-ball-slam",
       "name_en": "Medicine Ball Slam",
       "name_de": "Medizinball-Slam",
@@ -29235,6 +29632,7 @@
       "tags": [
         "core"
       ],
+      "variation_group": "ball-slam",
       "is_unilateral": false,
       "is_bodyweight": false,
       "instructions_en": [
@@ -35080,8 +35478,7 @@
         "knee_safe",
         "no_axial_load",
         "lower_back_safe",
-        "shoulder_safe",
-        "requires_bench"
+        "shoulder_safe"
       ],
       "variation_group": "reverse-fly",
       "is_unilateral": false,
@@ -40840,6 +41237,90 @@
         "flat": {
           "start": "images/flat/skull-crusher-start.webp",
           "peak": "images/flat/skull-crusher-peak.webp"
+        }
+      }
+    },
+    {
+      "id": "sled-push",
+      "name_en": "Sled Push",
+      "name_de": "Sled Push",
+      "name_es": "Empuje de Trineo",
+      "description_en": "A conditioning and leg-strength exercise: leaning into the uprights of a loaded sled, you drive it across the floor with short, powerful steps. The legs and glutes push the load while the arms and trunk stay braced, and there is no weight on the spine.",
+      "description_de": "Eine Übung für Kondition und Beinkraft: Du lehnst dich in die senkrechten Stangen eines beladenen Schlittens und schiebst ihn mit kurzen, kraftvollen Schritten über den Boden. Beine und Gesäß schieben die Last, während Arme und Rumpf angespannt bleiben, und auf der Wirbelsäule liegt kein Gewicht.",
+      "description_es": "Un ejercicio de acondicionamiento y fuerza de piernas: inclinado contra las barras verticales de un trineo cargado, lo desplazas por el suelo con pasos cortos y potentes. Las piernas y los glúteos empujan la carga mientras los brazos y el tronco se mantienen firmes, y la columna no soporta peso.",
+      "category": "strength",
+      "force_type": "push",
+      "mechanic": "compound",
+      "difficulty": "intermediate",
+      "equipment": "sled",
+      "body_part": "full_body",
+      "primary_muscles": [
+        "gastrocnemius",
+        "gluteus_maximus",
+        "quadriceps"
+      ],
+      "secondary_muscles": [
+        "hamstrings",
+        "rectus_abdominis",
+        "triceps_brachii"
+      ],
+      "goals": [
+        "strength",
+        "power",
+        "endurance"
+      ],
+      "tags": [
+        "full_body",
+        "leg_day",
+        "conditioning",
+        "no_axial_load",
+        "knee_safe"
+      ],
+      "is_unilateral": false,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Load the sled and stand behind it, holding the uprights with your hands at about chest height.",
+        "Lean forward so your body forms a straight diagonal line from your head to your back heel, with your arms extended.",
+        "Brace your trunk and drive one knee forward, pushing the floor away with the ball of your back foot.",
+        "Keep taking short, powerful steps, driving each leg back hard to move the sled forward.",
+        "Keep your hips low and your back flat, and look a short distance ahead of the sled.",
+        "Push for the planned distance or time, then stop under control and rest before the next push."
+      ],
+      "instructions_de": [
+        "Belade den Schlitten und stelle dich dahinter, die Hände an den Stangen etwa auf Brusthöhe.",
+        "Lehne dich nach vorn, sodass dein Körper vom Kopf bis zur hinteren Ferse eine gerade Diagonale bildet, die Arme gestreckt.",
+        "Spanne den Rumpf an und bringe ein Knie nach vorn, während du dich mit dem Ballen des hinteren Fußes vom Boden wegdrückst.",
+        "Mache weiter kurze, kraftvolle Schritte und drücke jedes Bein kräftig nach hinten, um den Schlitten vorwärts zu bewegen.",
+        "Halte die Hüfte tief und den Rücken gerade und blicke ein kurzes Stück vor den Schlitten.",
+        "Schiebe für die geplante Strecke oder Zeit, halte dann kontrolliert an und ruhe dich vor dem nächsten Durchgang aus."
+      ],
+      "instructions_es": [
+        "Carga el trineo y colócate detrás, sujetando las barras verticales con las manos aproximadamente a la altura del pecho.",
+        "Inclínate hacia delante de modo que el cuerpo forme una línea diagonal recta desde la cabeza hasta el talón trasero, con los brazos extendidos.",
+        "Aprieta el tronco e impulsa una rodilla hacia delante, empujando el suelo con el metatarso del pie trasero.",
+        "Sigue dando pasos cortos y potentes, empujando con fuerza cada pierna hacia atrás para hacer avanzar el trineo.",
+        "Mantén las caderas bajas y la espalda plana, y mira a poca distancia por delante del trineo.",
+        "Empuja durante la distancia o el tiempo previstos; luego detente con control y descansa antes del siguiente empuje."
+      ],
+      "tips_en": [
+        "Stay low with your arms locked or slightly bent; standing up tall makes you lose drive and push the sled with your arms.",
+        "Push through the balls of the feet with short, quick steps rather than long strides.",
+        "Pick a load you can keep moving at a steady pace; if the sled stops, the load is too heavy for the set."
+      ],
+      "tips_de": [
+        "Bleibe tief, die Arme durchgestreckt oder leicht gebeugt; richtest du dich auf, verlierst du den Vortrieb und schiebst den Schlitten mit den Armen.",
+        "Drücke dich mit kurzen, schnellen Schritten über die Fußballen ab statt mit langen Schritten.",
+        "Wähle eine Last, die du in gleichmäßigem Tempo in Bewegung halten kannst; bleibt der Schlitten stehen, ist die Last für den Satz zu schwer."
+      ],
+      "tips_es": [
+        "Mantente bajo con los brazos bloqueados o ligeramente flexionados; si te yergues, pierdes impulso y acabas empujando el trineo con los brazos.",
+        "Empuja con los metatarsos dando pasos cortos y rápidos en lugar de zancadas largas.",
+        "Elige una carga que puedas mantener en movimiento a un ritmo constante; si el trineo se detiene, la carga es demasiado pesada para la serie."
+      ],
+      "met": 6.0,
+      "images": {
+        "flat": {
+          "main": "images/flat/sled-push-main.webp"
         }
       }
     },
@@ -47753,6 +48234,87 @@
         "flat": {
           "start": "images/flat/walking-lunge-start.webp",
           "peak": "images/flat/walking-lunge-peak.webp"
+        }
+      }
+    },
+    {
+      "id": "wall-ball",
+      "name_en": "Wall Ball",
+      "name_de": "Wall Ball",
+      "name_es": "Wall Ball",
+      "description_en": "A full-body conditioning exercise that joins a front squat and a throw: holding a soft wall ball at your chest, you squat down, drive up and throw the ball to a target high on a wall, then catch it and go straight into the next squat. The legs and hips produce the power and the arms finish the throw.",
+      "description_de": "Eine Ganzkörperübung für die Kondition, die eine Frontkniebeuge mit einem Wurf verbindet: Du hältst einen weichen Wall Ball vor der Brust, gehst in die Kniebeuge, drückst dich kraftvoll hoch und wirfst den Ball an ein Ziel hoch oben an der Wand, fängst ihn dann und gehst direkt in die nächste Kniebeuge. Beine und Hüfte erzeugen die Kraft, die Arme vollenden den Wurf.",
+      "description_es": "Un ejercicio de acondicionamiento de cuerpo completo que combina una sentadilla frontal y un lanzamiento: sujetando un balón medicinal grande y blando a la altura del pecho, bajas en sentadilla, subes con fuerza y lanzas el balón a un objetivo situado en lo alto de una pared; después lo atrapas y pasas directamente a la siguiente sentadilla. Las piernas y las caderas generan la potencia y los brazos terminan el lanzamiento.",
+      "category": "strength",
+      "force_type": "push",
+      "mechanic": "compound",
+      "difficulty": "intermediate",
+      "equipment": "wall_ball",
+      "body_part": "full_body",
+      "primary_muscles": [
+        "gluteus_maximus",
+        "quadriceps"
+      ],
+      "secondary_muscles": [
+        "anterior_deltoid",
+        "rectus_abdominis",
+        "triceps_brachii"
+      ],
+      "goals": [
+        "power",
+        "endurance"
+      ],
+      "tags": [
+        "full_body",
+        "leg_day",
+        "conditioning",
+        "ballistic"
+      ],
+      "is_unilateral": false,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Stand facing a wall about an arm's length away, feet shoulder-width apart, holding the ball at your chest with both hands.",
+        "Keep your elbows under the ball and your chest up.",
+        "Squat down until your hips are at or below knee height, keeping your heels on the floor.",
+        "Drive up hard through your legs and hips and, as you rise, throw the ball up to the target with both arms.",
+        "Catch the ball at chest height as it comes down, letting your arms absorb it.",
+        "Go straight into the next squat with the catch and repeat for the planned repetitions."
+      ],
+      "instructions_de": [
+        "Stelle dich mit Blick zur Wand etwa eine Armlänge davor, die Füße schulterbreit, und halte den Ball mit beiden Händen vor der Brust.",
+        "Halte die Ellbogen unter dem Ball und die Brust oben.",
+        "Gehe in die Kniebeuge, bis die Hüfte auf oder unter Kniehöhe ist, und lass die Fersen am Boden.",
+        "Drücke dich kraftvoll über Beine und Hüfte nach oben und wirf den Ball beim Hochkommen mit beiden Armen zum Ziel hinauf.",
+        "Fange den Ball auf Brusthöhe, wenn er herunterkommt, und lass deine Arme ihn abfedern.",
+        "Gehe mit dem Fangen direkt in die nächste Kniebeuge und wiederhole für die geplante Anzahl an Wiederholungen."
+      ],
+      "instructions_es": [
+        "Ponte de pie frente a una pared, a aproximadamente un brazo de distancia, con los pies separados al ancho de los hombros y el balón sujeto a la altura del pecho con ambas manos.",
+        "Mantén los codos debajo del balón y el pecho alto.",
+        "Baja en sentadilla hasta que las caderas queden a la altura de las rodillas o por debajo, manteniendo los talones en el suelo.",
+        "Sube con fuerza empujando con las piernas y las caderas y, mientras te levantas, lanza el balón hacia el objetivo con ambos brazos.",
+        "Atrapa el balón a la altura del pecho cuando baje, dejando que los brazos amortigüen el impacto.",
+        "Encadena la recepción directamente con la siguiente sentadilla y repite el número de repeticiones previsto."
+      ],
+      "tips_en": [
+        "Let the legs throw the ball: the push from the squat should carry it most of the way, the arms only finish the movement.",
+        "Keep your chest up and the ball close to your body in the squat so your back stays neutral.",
+        "Catch and squat in one movement; resting with the ball at the top breaks the rhythm and tires the shoulders."
+      ],
+      "tips_de": [
+        "Lass die Beine den Ball werfen: Der Schub aus der Kniebeuge sollte ihn den größten Teil des Weges tragen, die Arme vollenden nur die Bewegung.",
+        "Halte die Brust oben und den Ball in der Kniebeuge nah am Körper, damit dein Rücken neutral bleibt.",
+        "Fange den Ball und gehe in einer Bewegung in die Kniebeuge; pausierst du oben mit dem Ball, bricht der Rhythmus und die Schultern ermüden."
+      ],
+      "tips_es": [
+        "Deja que sean las piernas las que lancen el balón: el impulso de la sentadilla debe llevarlo la mayor parte del recorrido y los brazos solo terminan el movimiento.",
+        "Mantén el pecho alto y el balón cerca del cuerpo en la sentadilla para que la espalda se mantenga neutra.",
+        "Atrapa el balón y baja en sentadilla en un solo movimiento; descansar con el balón arriba rompe el ritmo y cansa los hombros."
+      ],
+      "met": 6.0,
+      "images": {
+        "flat": {
+          "main": "images/flat/wall-ball-main.webp"
         }
       }
     },
