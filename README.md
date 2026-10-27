@@ -13,7 +13,7 @@
   <img src="images/flat/cable-crunch-peak.webp" width="130" />
 </p>
 
-**A free, ready-to-use multilingual fitness exercise dataset — 650 exercises in JSON with 512 px flat WebP illustrations, target muscles, equipment, MET values, and full instructions in English, German & Spanish. Free for personal *and* commercial in-app use, with attribution.**
+**A free, ready-to-use multilingual fitness exercise dataset — 701 exercises in JSON with 512 px flat WebP illustrations, target muscles, equipment, MET values, and full instructions in English, German & Spanish. Free for personal *and* commercial in-app use, with attribution.**
 
 [![Data](https://img.shields.io/badge/Data-JSON%20%2B%20WebP-blue?style=flat-square)](exercises.json)
 [![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20DE%20%7C%20ES-9cf?style=flat-square)](#multilingual)
@@ -45,7 +45,7 @@ Standard ships the male character; the optional **Female character add-on (+$99)
 
 ## What is this?
 
-This is the **free public edition** of [**RepDB**](https://repdb.co/), a curated commercial exercise dataset. This public snapshot contains **650 fully illustrated exercises**: each exercise ships as JSON with flat-style 512 px WebP illustrations (start/peak poses, or a single pose for stretches), target muscles, equipment, goals, tags, MET values, and step-by-step instructions in **English, German, and Spanish**.
+This is the **free public edition** of [**RepDB**](https://repdb.co/), a curated commercial exercise dataset. This public snapshot contains **701 fully illustrated exercises**: each exercise ships as JSON with flat-style 512 px WebP illustrations (start/peak poses, or a single pose for stretches), target muscles, equipment, goals, tags, MET values, and step-by-step instructions in **English, German, and Spanish**.
 
 Unlike the usual scraped exercise JSONs, everything here is original, consistent, and **usable in commercial apps for free** — the only hard requirement is attribution. And unlike an API, it's just files: no key, no rate limit, no uptime to worry about.
 
@@ -135,17 +135,17 @@ The [`premium-samples/`](premium-samples/) folder holds one **Standard-tier** sh
 
 ## Free vs. Standard
 
-Counts checked **October 18, 2026**: this free snapshot contains **650 exercises**;
-the current paid catalog contains **650**. Standard includes motion animations for
-**524 exercises**; the other **126 exercises use static illustrations**.
+Counts checked **October 27, 2026**: this free snapshot contains **701 exercises**;
+the current paid catalog contains **701**. Standard includes motion animations for
+**544 exercises**; the other **157 exercises use static illustrations**.
 The paid Standard tier adds richer assets and developer data, with no RepDB attribution required.
 
 | | **Free** (this repo) | [**Standard**](https://repdb.co/pricing/) |
 |---|---|---|
-| Exercise set | 650 exercises in this public snapshot | 650 exercises |
+| Exercise set | 701 exercises in this public snapshot | 701 exercises |
 | Still illustrations | flat style · solid background · 512×512 WebP | flat **+ classic** styles · 1024×1024 WebP, with transparent classic backgrounds |
 | Classic art direction | — | one consistent character with target-muscle highlighting, ready for any theme |
-| Animation | — | smooth looping motion for **524 exercises**, with transparent backgrounds |
+| Animation | — | smooth looping motion for **544 exercises**, with transparent backgrounds |
 | Data & developer extras | JSON + WebP | JSON with activity metrics + relations graph, workout templates and AI embeddings |
 | Languages | EN · DE · ES | EN · DE · ES · **FR** |
 | Female character | — | optional add-on (+$99): a female version of every Standard exercise |
