@@ -50,7 +50,7 @@ This is the **free public edition** of [**RepDB**](https://repdb.co/), a curated
 Unlike the usual scraped exercise JSONs, everything here is original, consistent, and **usable in commercial apps for free** — the only hard requirement is attribution. And unlike an API, it's just files: no key, no rate limit, no uptime to worry about.
 
 > [!IMPORTANT]
-> **Attribution is required.** Place a visible link — **"Exercise data by RepDB (repdb.co)"** — in your app's about/credits screen, your project's README, or your website footer. That's the price of the free tier.
+> **Attribution is required.** Place a visible link — **"Exercise data by RepDB (repdb.co)"** — in your app's about/credits screen, your project's README, or your website footer. That's the price of the free tier. The link may be `rel="nofollow"`.
 
 Copy-paste Markdown, HTML, and app-credit versions are ready in
 [`ATTRIBUTION.md`](ATTRIBUTION.md).
@@ -60,7 +60,7 @@ Copy-paste Markdown, HTML, and app-credit versions are ready in
 Full text: [`LICENSE-DATA.md`](LICENSE-DATA.md). The seven terms in short:
 
 1. **Free for personal and commercial use inside applications** — apps, websites, research projects, at no cost.
-2. **Attribution required** — a visible "Exercise data by RepDB (repdb.co)" link.
+2. **Attribution required** — a visible "Exercise data by RepDB (repdb.co)" link (`rel="nofollow"` is fine).
 3. **No redistribution as a dataset** — don't republish, resell, or repackage it (or a derivative) as a dataset, dataset repo, or API. In-app use only.
 4. **Image modifications** — resize/crop/recolor for in-app use is fine; upscaled or background-removed derivatives still fall under the no-redistribution rule.
 5. **No generative-AI derivation** — the images may not be used as input, reference, or training/conditioning material for generative models (image-to-image restyling, style transfer, fine-tuning, etc.); outputs count as derived datasets.

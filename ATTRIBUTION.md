@@ -13,8 +13,11 @@ Exercise data by [RepDB](https://repdb.co)
 ## HTML
 
 ```html
-Exercise data by <a href="https://repdb.co">RepDB (repdb.co)</a>
+Exercise data by <a href="https://repdb.co" rel="nofollow">RepDB (repdb.co)</a>
 ```
+
+The `rel="nofollow"` is optional: keep it, drop it, or use any other `rel`
+value. The license leaves that choice to you.
 
 ## Plain text / app credits
 

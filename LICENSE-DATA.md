@@ -14,7 +14,7 @@ For 1024px images, the classic image style, transparent backgrounds, animated ex
 
 1. **Free for personal and commercial use inside applications.** You may use the dataset and images inside applications — apps, websites, research projects — for personal and commercial purposes, at no cost.
 
-2. **Attribution required.** Place a visible link — "Exercise data by RepDB (repdb.co)" — in your app's about/credits screen, your project's README, or your website footer.
+2. **Attribution required.** Place a visible link — "Exercise data by RepDB (repdb.co)" — in your app's about/credits screen, your project's README, or your website footer. The link may carry `rel="nofollow"` or any other `rel` value you choose.
 
 3. **No redistribution as a dataset.** You may not republish, resell, or repackage the dataset — or a modified or derived dataset — as a dataset, dataset repository, or API. In-app use only.
 
