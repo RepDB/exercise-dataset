@@ -30,7 +30,7 @@
 
 **RepDB Standard** adds **smooth looping animations, transparent backgrounds, and one consistent character** for a cohesive exercise library in your app. Place the same animation on light, dark, or custom backgrounds.
 
-<a href="https://repdb.co/preview/">
+<a href="https://repdb.co/exercise-animations/">
   <img src="premium-samples/bent-over-db-row.webp" width="260" alt="RepDB Standard: bent-over dumbbell row animation with muscle highlighting and a transparent background" />
   <img src="premium-samples/glute-bridge-female.webp" width="260" alt="Glute bridge with the optional RepDB Female character" />
 </a>
@@ -39,7 +39,7 @@ Standard ships the male character; the optional **Female character add-on (+$99)
 
 **Paid Standard preview · evaluation only.** Production use of this sample requires a Standard license; redistribution is not permitted.
 
-**[Browse the animation preview →](https://repdb.co/preview/)** &nbsp;·&nbsp; **[Standard details & pricing →](https://repdb.co/pricing/)**
+**[Browse the animation gallery →](https://repdb.co/exercise-animations/)** &nbsp;·&nbsp; **[Standard details & pricing →](https://repdb.co/pricing/)**
 
 ---
 
@@ -131,7 +131,7 @@ Names, descriptions, instructions, and tips ship in **English, German, and Spani
 
 ## `premium-samples/` — paid-tier preview (evaluation only)
 
-The [`premium-samples/`](premium-samples/) folder holds one **Standard-tier** showcase — classic stills plus a looping transparent-background animation, the same quality shown on [repdb.co](https://repdb.co/) — so you can judge paid assets before buying. They are **evaluation-only**: not for production use, not for redistribution (license term 6). See more exercises in the [animation preview](https://repdb.co/preview/).
+The [`premium-samples/`](premium-samples/) folder holds one **Standard-tier** showcase — classic stills plus a looping transparent-background animation, the same quality shown on [repdb.co](https://repdb.co/) — so you can judge paid assets before buying. They are **evaluation-only**: not for production use, not for redistribution (license term 6). See more exercises in the [animation gallery](https://repdb.co/exercise-animations/).
 
 ## Free vs. Standard
 
