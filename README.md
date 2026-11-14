@@ -13,7 +13,7 @@
   <img src="images/flat/cable-crunch-peak.webp" width="130" />
 </p>
 
-**A free, ready-to-use multilingual fitness exercise dataset — 701 exercises in JSON with 512 px flat WebP illustrations, target muscles, equipment, MET values, and full instructions in English, German & Spanish. Free for personal *and* commercial in-app use, with attribution.**
+**A free, ready-to-use multilingual fitness exercise dataset — 708 exercises in JSON with 512 px flat WebP illustrations, target muscles, equipment, MET values, and full instructions in English, German & Spanish. Free for personal *and* commercial in-app use, with attribution.**
 
 [![Data](https://img.shields.io/badge/Data-JSON%20%2B%20WebP-blue?style=flat-square)](exercises.json)
 [![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20DE%20%7C%20ES-9cf?style=flat-square)](#multilingual)
@@ -55,7 +55,7 @@ Only need images? **Stills — $299, one payment**: the classic and flat stills 
 
 ## What is this?
 
-This is the **free public edition** of [**RepDB**](https://repdb.co/?utm_source=github-readme), a curated commercial exercise dataset. This public snapshot contains **701 fully illustrated exercises**: each exercise ships as JSON with flat-style 512 px WebP illustrations (start/peak poses, or a single pose for stretches), target muscles, equipment, goals, tags, MET values, and step-by-step instructions in **English, German, and Spanish**.
+This is the **free public edition** of [**RepDB**](https://repdb.co/?utm_source=github-readme), a curated commercial exercise dataset. This public snapshot contains **708 fully illustrated exercises**: each exercise ships as JSON with flat-style 512 px WebP illustrations (start/peak poses, or a single pose for stretches), target muscles, equipment, goals, tags, MET values, and step-by-step instructions in **English, German, and Spanish**.
 
 Unlike the usual scraped exercise JSONs, everything here is original, consistent, and **usable in commercial apps for free** — the only hard requirement is attribution. And unlike an API, it's just files: no key, no rate limit, no uptime to worry about.
 
@@ -145,17 +145,17 @@ The [`premium-samples/`](premium-samples/) folder holds one **Standard-tier** sh
 
 ## Free vs. Standard
 
-Counts checked **November 11, 2026**: this free snapshot contains **701 exercises**;
-the current paid catalog contains **701**. Standard includes motion animations for
-**544 exercises**; the other **157 exercises use static illustrations**.
+Counts checked **November 14, 2026**: this free snapshot contains **708 exercises**;
+the current paid catalog contains **708**. Standard includes motion animations for
+**551 exercises**; the other **157 exercises use static illustrations**.
 The paid Standard tier adds richer assets and developer data, with no RepDB attribution required.
 
 | | **Free** (this repo) | [**Standard**](https://repdb.co/pricing/?utm_source=github-readme) |
 |---|---|---|
-| Exercise set | 701 exercises in this public snapshot | 701 exercises |
+| Exercise set | 708 exercises in this public snapshot | 708 exercises |
 | Still illustrations | flat style · solid background · 512×512 WebP | flat **+ classic** styles · 1024×1024 WebP, with transparent classic backgrounds |
 | Classic art direction | — | one consistent character with target-muscle highlighting, ready for any theme |
-| Animation | — | smooth looping motion for **544 exercises**, with transparent backgrounds; ready-made MP4 and GIF copies on white |
+| Animation | — | smooth looping motion for **551 exercises**, with transparent backgrounds; ready-made MP4 and GIF copies on white |
 | Muscle heatmap | muscle icons (`images/muscles/`) | front + back body layers to colour from your own data |
 | Data & developer extras | JSON + WebP | JSON **and SQLite** with activity metrics + relations graph, workout templates and AI embeddings |
 | Languages | EN · DE · ES | EN · DE · ES · **FR** |

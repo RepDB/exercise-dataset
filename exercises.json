@@ -3,8 +3,8 @@
   "homepage": "https://repdb.co",
   "license": "other (see LICENSE-DATA.md)",
   "schema_version": 3,
-  "count": 701,
-  "note": "Free public edition of 701 RepDB exercises. Paid bundles add classic style, premium assets, and an attribution-free commercial license at https://repdb.co.",
+  "count": 708,
+  "note": "Free public edition of 708 RepDB exercises. Paid bundles add classic style, premium assets, and an attribution-free commercial license at https://repdb.co.",
   "exercises": [
     {
       "id": "90-90-hold",
@@ -1904,6 +1904,169 @@
       }
     },
     {
+      "id": "band-pull-through",
+      "name_en": "Band Pull-Through",
+      "name_de": "Pull-Through mit Band",
+      "name_es": "Tirón entre Piernas con Banda",
+      "description_en": "A hip-hinge exercise in which you stand facing away from a low anchor with a resistance band running between your legs and drive your hips forward to stand tall. The pull of the band behind you loads the glutes and hamstrings, which makes it a light, joint-friendly way to practise the hinge.",
+      "description_de": "Eine Hüftbeuge-Übung, bei der du mit dem Rücken zu einem tiefen Befestigungspunkt stehst, das Widerstandsband zwischen den Beinen verläuft und du die Hüfte nach vorn treibst, um dich aufzurichten. Der Zug des Bandes hinter dir belastet Gesäß und Beinrückseite und macht sie zu einer leichten, gelenkschonenden Möglichkeit, die Hüftbeuge zu üben.",
+      "description_es": "Un ejercicio de bisagra de cadera en el que te colocas de espaldas a un anclaje bajo, con una banda elástica pasando entre las piernas, e impulsas las caderas hacia adelante hasta quedar erguido. La tensión de la banda por detrás trabaja los glúteos y los isquiotibiales, lo que lo convierte en una forma ligera y amable con las articulaciones de practicar la bisagra.",
+      "category": "strength",
+      "force_type": "pull",
+      "mechanic": "compound",
+      "difficulty": "beginner",
+      "equipment": "resistance_band",
+      "body_part": "upper_legs",
+      "primary_muscles": [
+        "gluteus_maximus",
+        "hamstrings"
+      ],
+      "secondary_muscles": [
+        "erector_spinae"
+      ],
+      "goals": [
+        "hypertrophy",
+        "strength"
+      ],
+      "tags": [
+        "leg_day",
+        "glute_focus",
+        "knee_safe",
+        "shoulder_safe",
+        "lower_back_safe",
+        "no_axial_load"
+      ],
+      "variation_group": "deadlift",
+      "is_unilateral": false,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Anchor a resistance band at floor level and stand facing away from it, with the band passing between your legs and its free end held in both hands.",
+        "Step forward until the band is under tension and set your feet about shoulder-width apart with your knees slightly bent.",
+        "Push your hips back and hinge forward at the hips with a flat back, letting your hands travel down between your legs.",
+        "Drive your hips forward and squeeze your glutes to stand tall, bringing your hands up in front of your hips.",
+        "Pause with your body in one line, without leaning back, and then hinge down again under control.",
+        "Complete the planned repetitions."
+      ],
+      "instructions_de": [
+        "Befestige ein Widerstandsband in Bodenhöhe und stell dich mit dem Rücken dazu, das Band läuft zwischen deinen Beinen hindurch und das freie Ende hältst du in beiden Händen.",
+        "Geh nach vorn, bis das Band unter Spannung steht, und stell die Füße etwa schulterbreit auf, die Knie leicht gebeugt.",
+        "Schiebe die Hüfte nach hinten und beuge dich mit geradem Rücken in der Hüfte nach vorn, während deine Hände zwischen den Beinen nach unten wandern.",
+        "Treibe die Hüfte nach vorn und spanne das Gesäß an, um dich aufzurichten, und bringe die Hände vor die Hüfte.",
+        "Halte oben kurz inne, mit dem Körper in einer Linie und ohne dich zurückzulehnen, und beuge dich dann kontrolliert wieder nach unten.",
+        "Absolviere die geplante Anzahl an Wiederholungen."
+      ],
+      "instructions_es": [
+        "Ancla una banda elástica a ras de suelo y colócate de espaldas a ella, con la banda pasando entre las piernas y el extremo libre sujeto con ambas manos.",
+        "Da un paso hacia adelante hasta que la banda quede en tensión y coloca los pies separados al ancho de los hombros con las rodillas ligeramente flexionadas.",
+        "Lleva las caderas hacia atrás e inclínate hacia adelante desde las caderas con la espalda recta, dejando que las manos bajen entre las piernas.",
+        "Impulsa las caderas hacia adelante y aprieta los glúteos para ponerte erguido, subiendo las manos frente a las caderas.",
+        "Haz una pausa con el cuerpo en una sola línea, sin inclinarte hacia atrás, y luego vuelve a bajar con control.",
+        "Completa el número de repeticiones previsto."
+      ],
+      "tips_en": [
+        "The movement comes from your hips, not from your lower back; think of closing a car door with your hips.",
+        "Keep your back flat and the band under tension the whole time; step further from the anchor if it goes slack at the top.",
+        "Stand tall at the top without leaning back or over-arching your lower back."
+      ],
+      "tips_de": [
+        "Die Bewegung kommt aus der Hüfte, nicht aus dem unteren Rücken; stell dir vor, du schließt mit der Hüfte eine Autotür.",
+        "Halte den Rücken gerade und das Band die ganze Zeit unter Spannung; geh weiter vom Befestigungspunkt weg, wenn es oben erschlafft.",
+        "Steh oben aufrecht, ohne dich zurückzulehnen oder ins Hohlkreuz zu gehen."
+      ],
+      "tips_es": [
+        "El movimiento sale de las caderas, no de la zona lumbar; piensa en cerrar la puerta de un coche con las caderas.",
+        "Mantén la espalda recta y la banda en tensión todo el tiempo; aléjate más del anclaje si se afloja arriba.",
+        "Ponte erguido arriba sin inclinarte hacia atrás ni arquear en exceso la zona lumbar."
+      ],
+      "met": 6.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/band-pull-through-start.webp",
+          "peak": "images/flat/band-pull-through-peak.webp"
+        }
+      }
+    },
+    {
+      "id": "band-shoulder-external-rotation",
+      "name_en": "Band Shoulder External Rotation",
+      "name_de": "Schulter-Außenrotation mit Band",
+      "name_es": "Rotación Externa de Hombro con Banda",
+      "description_en": "A rotator cuff exercise with a resistance band. With your elbow tucked against your side and bent to a right angle, you rotate your forearm outward against the pull of the band and then return slowly. It strengthens the small muscles at the back of the shoulder that turn the arm outward and keep the joint steady.",
+      "description_de": "Eine Übung für die Rotatorenmanschette mit einem Widerstandsband. Mit dem Ellbogen eng am Körper und im rechten Winkel gebeugt drehst du den Unterarm gegen den Zug des Bandes nach außen und führst ihn dann langsam zurück. Sie kräftigt die kleinen Muskeln an der Schulterrückseite, die den Arm nach außen drehen und das Gelenk stabil halten.",
+      "description_es": "Un ejercicio para el manguito rotador con banda elástica. Con el codo pegado al costado y flexionado en ángulo recto, rotas el antebrazo hacia afuera contra la tensión de la banda y luego vuelves despacio. Fortalece los pequeños músculos de la parte posterior del hombro que giran el brazo hacia afuera y mantienen estable la articulación.",
+      "category": "strength",
+      "force_type": "pull",
+      "mechanic": "isolation",
+      "difficulty": "beginner",
+      "equipment": "resistance_band",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "infraspinatus_teres_minor"
+      ],
+      "secondary_muscles": [
+        "posterior_deltoid"
+      ],
+      "goals": [
+        "rehabilitation",
+        "strength"
+      ],
+      "tags": [
+        "knee_safe",
+        "no_axial_load",
+        "lower_back_safe",
+        "shoulder_safe"
+      ],
+      "variation_group": "shoulder-rotation",
+      "is_unilateral": true,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Anchor a resistance band at about elbow height and stand sideways to it, so that the arm you are training is on the side away from the anchor.",
+        "Hold the band in that hand, bend your elbow to 90 degrees and tuck it against your side; a small folded towel between elbow and ribs helps keep it there.",
+        "Start with your forearm pointing across your stomach and the band under light tension.",
+        "Rotate your forearm outward, away from your body and the anchor, keeping your elbow fixed at your side and your wrist straight.",
+        "Pause when your forearm points slightly outward, without leaning or twisting your trunk.",
+        "Return slowly to the start against the band, repeat for the planned repetitions, and then switch arms."
+      ],
+      "instructions_de": [
+        "Befestige ein Widerstandsband etwa auf Ellbogenhöhe und stell dich seitlich dazu, sodass der trainierte Arm auf der vom Befestigungspunkt abgewandten Seite ist.",
+        "Halte das Band in dieser Hand, beuge den Ellbogen auf 90 Grad und lege ihn eng an die Seite; ein kleines gefaltetes Handtuch zwischen Ellbogen und Rippen hilft, ihn dort zu halten.",
+        "Beginne mit dem Unterarm quer vor dem Bauch und dem Band unter leichter Spannung.",
+        "Drehe den Unterarm nach außen, weg von deinem Körper und vom Befestigungspunkt, und halte dabei den Ellbogen fest an der Seite und das Handgelenk gerade.",
+        "Halte kurz inne, wenn der Unterarm leicht nach außen zeigt, ohne dich zu lehnen oder den Rumpf zu verdrehen.",
+        "Führe den Arm langsam gegen das Band zurück in die Ausgangsposition, wiederhole für die geplante Anzahl an Wiederholungen und wechsle dann den Arm."
+      ],
+      "instructions_es": [
+        "Ancla una banda elástica a la altura del codo y colócate de lado a ella, de modo que el brazo que vas a trabajar quede en el lado más alejado del anclaje.",
+        "Sujeta la banda con esa mano, flexiona el codo a 90 grados y pégalo al costado; una toalla pequeña doblada entre el codo y las costillas ayuda a mantenerlo ahí.",
+        "Empieza con el antebrazo apuntando a través del abdomen y la banda con una tensión ligera.",
+        "Rota el antebrazo hacia afuera, alejándolo del cuerpo y del anclaje, con el codo fijo al costado y la muñeca recta.",
+        "Haz una pausa cuando el antebrazo apunte ligeramente hacia afuera, sin inclinarte ni girar el tronco.",
+        "Vuelve despacio a la posición inicial contra la banda, repite el número de repeticiones previsto y luego cambia de brazo."
+      ],
+      "tips_en": [
+        "Use a light band and slow repetitions; these small muscles tire quickly.",
+        "Keep your elbow pinned to your side; if it drifts away, the larger shoulder muscles take over from the rotator cuff.",
+        "Stop if you feel a pinch at the front of the shoulder and keep the movement pain-free."
+      ],
+      "tips_de": [
+        "Nimm ein leichtes Band und bewege dich langsam; diese kleinen Muskeln ermüden schnell.",
+        "Halte den Ellbogen fest an der Seite; wenn er wegwandert, übernehmen die größeren Schultermuskeln die Arbeit von der Rotatorenmanschette.",
+        "Hör auf, wenn du einen Stich an der Schultervorderseite spürst, und halte die Bewegung schmerzfrei."
+      ],
+      "tips_es": [
+        "Usa una banda ligera y repeticiones lentas; estos músculos pequeños se cansan rápido.",
+        "Mantén el codo pegado al costado; si se separa, los músculos grandes del hombro sustituyen al manguito rotador.",
+        "Para si notas un pellizco en la parte delantera del hombro y mantén el movimiento sin dolor."
+      ],
+      "met": 5.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/band-shoulder-external-rotation-start.webp",
+          "peak": "images/flat/band-shoulder-external-rotation-peak.webp"
+        }
+      }
+    },
+    {
       "id": "banded-adductor-stretch",
       "name_en": "Banded Adductor Stretch",
       "name_de": "Adduktoren-Dehnung mit Band",
@@ -2991,6 +3154,256 @@
       }
     },
     {
+      "id": "banded-overhead-press",
+      "name_en": "Banded Overhead Press",
+      "name_de": "Überkopfdrücken mit Band",
+      "name_es": "Press por Encima de la Cabeza con Banda",
+      "description_en": "A standing overhead press with a resistance band under your feet. You hold the band at shoulder height and press your hands overhead until your arms are straight, against the growing tension of the band. It trains the shoulders and the triceps without weights.",
+      "description_de": "Ein Überkopfdrücken im Stand mit einem Widerstandsband unter den Füßen. Du hältst das Band auf Schulterhöhe und drückst die Hände über den Kopf, bis die Arme gestreckt sind, gegen die wachsende Spannung des Bandes. Es trainiert Schultern und Trizeps ohne Gewichte.",
+      "description_es": "Un press por encima de la cabeza de pie con una banda elástica bajo los pies. Sujetas la banda a la altura de los hombros y empujas las manos hacia arriba hasta estirar los brazos, contra la tensión creciente de la banda. Trabaja los hombros y los tríceps sin pesas.",
+      "category": "strength",
+      "force_type": "push",
+      "mechanic": "compound",
+      "difficulty": "beginner",
+      "equipment": "resistance_band",
+      "body_part": "shoulders",
+      "primary_muscles": [
+        "anterior_deltoid",
+        "triceps_brachii"
+      ],
+      "secondary_muscles": [
+        "lateral_deltoid",
+        "serratus_anterior",
+        "trapezius"
+      ],
+      "goals": [
+        "hypertrophy",
+        "strength"
+      ],
+      "tags": [
+        "knee_safe",
+        "lower_back_safe",
+        "no_axial_load"
+      ],
+      "variation_group": "overhead-press",
+      "is_unilateral": false,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Stand on the middle of a resistance band with your feet about hip-width apart.",
+        "Hold the ends of the band at shoulder height with your palms facing forward and your elbows bent.",
+        "Brace your trunk and squeeze your glutes to keep your ribs down.",
+        "Press your hands straight up overhead until your arms are fully extended.",
+        "Pause briefly at the top, then lower your hands back to your shoulders under control.",
+        "Complete the planned repetitions."
+      ],
+      "instructions_de": [
+        "Stell dich mit den Füßen etwa hüftbreit auf die Mitte eines Widerstandsbandes.",
+        "Halte die Enden des Bandes auf Schulterhöhe, die Handflächen nach vorn und die Ellbogen gebeugt.",
+        "Spanne den Rumpf an und drücke das Gesäß zusammen, damit die Rippen unten bleiben.",
+        "Drücke die Hände gerade nach oben über den Kopf, bis die Arme vollständig gestreckt sind.",
+        "Halte oben kurz inne und senke die Hände dann kontrolliert zurück zu den Schultern.",
+        "Absolviere die geplante Anzahl an Wiederholungen."
+      ],
+      "instructions_es": [
+        "Ponte de pie sobre el centro de una banda elástica con los pies separados al ancho de las caderas.",
+        "Sujeta los extremos de la banda a la altura de los hombros con las palmas hacia adelante y los codos flexionados.",
+        "Contrae el tronco y aprieta los glúteos para mantener las costillas bajas.",
+        "Empuja las manos en línea recta hacia arriba por encima de la cabeza hasta que los brazos queden completamente extendidos.",
+        "Haz una breve pausa arriba y luego baja las manos de nuevo a los hombros con control.",
+        "Completa el número de repeticiones previsto."
+      ],
+      "tips_en": [
+        "Choose a band that lets you finish the set with a steady press and without arching your back.",
+        "Press in a straight line close to your face and finish with your arms next to your ears.",
+        "Wrap the ends of the band around your hands for more tension, or use a lighter band to make it easier."
+      ],
+      "tips_de": [
+        "Wähle ein Band, mit dem du den Satz mit gleichmäßigem Drücken und ohne Hohlkreuz beendest.",
+        "Drücke in einer geraden Linie dicht am Gesicht vorbei und beende die Bewegung mit den Armen neben den Ohren.",
+        "Wickle die Enden des Bandes um die Hände für mehr Spannung oder nimm ein leichteres Band, um es leichter zu machen."
+      ],
+      "tips_es": [
+        "Elige una banda que te permita terminar la serie con un empuje estable y sin arquear la espalda.",
+        "Empuja en línea recta cerca de la cara y termina con los brazos junto a las orejas.",
+        "Enrolla los extremos de la banda alrededor de las manos para más tensión, o usa una banda más ligera para hacerlo más fácil."
+      ],
+      "met": 6.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/banded-overhead-press-start.webp",
+          "peak": "images/flat/banded-overhead-press-peak.webp"
+        }
+      }
+    },
+    {
+      "id": "banded-pallof-press",
+      "name_en": "Banded Pallof Press",
+      "name_de": "Pallof Press mit Band",
+      "name_es": "Press Pallof con Banda",
+      "description_en": "An anti-rotation core exercise with a resistance band anchored beside you at chest height. You hold the band at your chest, press your hands straight out in front of you and resist the pull of the band that tries to turn your trunk, then bring your hands back. The abdominal muscles and obliques work to keep your body still.",
+      "description_de": "Eine Anti-Rotations-Übung für den Rumpf mit einem Widerstandsband, das seitlich neben dir auf Brusthöhe befestigt ist. Du hältst das Band an der Brust, drückst die Hände gerade nach vorn und widerstehst dem Zug des Bandes, der deinen Rumpf drehen will, und führst die Hände dann zurück. Die Bauchmuskeln und die schrägen Bauchmuskeln arbeiten, um deinen Körper ruhig zu halten.",
+      "description_es": "Un ejercicio anti-rotación para el core con una banda elástica anclada a tu lado a la altura del pecho. Sujetas la banda en el pecho, empujas las manos en línea recta hacia adelante y resistes la tensión de la banda que intenta girarte el tronco, y luego vuelves con las manos al pecho. Los abdominales y los oblicuos trabajan para mantener el cuerpo quieto.",
+      "category": "strength",
+      "force_type": "push",
+      "mechanic": "compound",
+      "difficulty": "intermediate",
+      "equipment": "resistance_band",
+      "body_part": "core",
+      "primary_muscles": [
+        "obliques",
+        "transverse_abdominis"
+      ],
+      "secondary_muscles": [
+        "anterior_deltoid",
+        "erector_spinae",
+        "gluteus_medius",
+        "rectus_abdominis"
+      ],
+      "goals": [
+        "core",
+        "strength"
+      ],
+      "tags": [
+        "core",
+        "core_focus",
+        "lower_back_safe",
+        "knee_safe",
+        "no_axial_load",
+        "shoulder_safe"
+      ],
+      "is_unilateral": false,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Anchor a resistance band at chest height and stand sideways to it with your feet shoulder-width apart, holding the band with both hands at the centre of your chest.",
+        "Step away from the anchor until the band is under tension, with your knees slightly bent and your hips and shoulders facing forward.",
+        "Press your hands straight out in front of your chest until your arms are fully extended, without letting your trunk turn toward the anchor.",
+        "Hold for a moment with your body completely still.",
+        "Bring your hands back to your chest under control.",
+        "Complete the planned repetitions, then turn around and repeat on the other side."
+      ],
+      "instructions_de": [
+        "Befestige ein Widerstandsband auf Brusthöhe und stell dich seitlich dazu, die Füße schulterbreit, und halte das Band mit beiden Händen in der Mitte deiner Brust.",
+        "Geh vom Befestigungspunkt weg, bis das Band unter Spannung steht, die Knie leicht gebeugt, und Hüfte und Schultern zeigen nach vorn.",
+        "Drücke die Hände gerade nach vorn von der Brust weg, bis die Arme vollständig gestreckt sind, ohne den Rumpf zum Befestigungspunkt drehen zu lassen.",
+        "Halte einen Moment inne, mit dem Körper völlig ruhig.",
+        "Führe die Hände kontrolliert zurück zur Brust.",
+        "Absolviere die geplante Anzahl an Wiederholungen, dreh dich dann um und wiederhole auf der anderen Seite."
+      ],
+      "instructions_es": [
+        "Ancla una banda elástica a la altura del pecho y colócate de lado a ella con los pies separados al ancho de los hombros, sujetando la banda con ambas manos en el centro del pecho.",
+        "Aléjate del anclaje hasta que la banda quede en tensión, con las rodillas ligeramente flexionadas y las caderas y los hombros mirando al frente.",
+        "Empuja las manos en línea recta hacia adelante desde el pecho hasta que los brazos queden completamente extendidos, sin dejar que el tronco gire hacia el anclaje.",
+        "Mantén la posición un momento con el cuerpo completamente quieto.",
+        "Vuelve con las manos al pecho con control.",
+        "Completa el número de repeticiones previsto y luego date la vuelta y repite del otro lado."
+      ],
+      "tips_en": [
+        "The work is in keeping your torso still, not in the press itself; use a lighter band if your hips or shoulders twist.",
+        "Stand tall with your ribs down and your glutes lightly squeezed.",
+        "Step further from the anchor or use a thicker band to make it harder."
+      ],
+      "tips_de": [
+        "Die Arbeit liegt darin, den Oberkörper ruhig zu halten, nicht im Drücken selbst; nimm ein leichteres Band, wenn sich Hüfte oder Schultern verdrehen.",
+        "Steh aufrecht, die Rippen unten und das Gesäß leicht angespannt.",
+        "Geh weiter vom Befestigungspunkt weg oder nimm ein dickeres Band, um es schwerer zu machen."
+      ],
+      "tips_es": [
+        "El trabajo está en mantener el torso quieto, no en el empuje en sí; usa una banda más ligera si las caderas o los hombros giran.",
+        "Ponte erguido con las costillas bajas y los glúteos ligeramente apretados.",
+        "Aléjate más del anclaje o usa una banda más gruesa para hacerlo más difícil."
+      ],
+      "met": 6.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/banded-pallof-press-start.webp",
+          "peak": "images/flat/banded-pallof-press-peak.webp"
+        }
+      }
+    },
+    {
+      "id": "banded-push-up",
+      "name_en": "Banded Push-Up",
+      "name_de": "Push-Up mit Band",
+      "name_es": "Push-Up con Banda",
+      "description_en": "A push-up with a resistance band stretched across your upper back and held under your hands. The band adds resistance that grows as you press up, so the top of the movement becomes the hardest part. It trains the chest, the front of the shoulders and the triceps.",
+      "description_de": "Ein Push-Up mit einem Widerstandsband, das über deinen oberen Rücken gespannt ist und unter deinen Händen festgehalten wird. Das Band erhöht den Widerstand, je weiter du dich hochdrückst, sodass der obere Teil der Bewegung der schwerste wird. Sie trainiert Brust, vordere Schultern und Trizeps.",
+      "description_es": "Un push-up con una banda elástica pasada por la parte alta de la espalda y sujeta bajo las manos. La banda añade una resistencia que aumenta a medida que empujas hacia arriba, de modo que la parte final del movimiento se vuelve la más dura. Trabaja el pecho, la parte delantera de los hombros y los tríceps.",
+      "category": "strength",
+      "force_type": "push",
+      "mechanic": "compound",
+      "difficulty": "intermediate",
+      "equipment": "resistance_band",
+      "body_part": "chest",
+      "primary_muscles": [
+        "pectoralis_major",
+        "triceps_brachii"
+      ],
+      "secondary_muscles": [
+        "anterior_deltoid",
+        "serratus_anterior"
+      ],
+      "goals": [
+        "hypertrophy",
+        "strength"
+      ],
+      "tags": [
+        "push_day",
+        "calisthenics",
+        "knee_safe",
+        "no_axial_load",
+        "lower_back_safe"
+      ],
+      "variation_group": "push-up",
+      "is_unilateral": false,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Place a resistance band across your upper back, just below your neck, and hold each end under the palm of the same hand on the floor.",
+        "Start in a high plank with your hands slightly wider than your shoulders and your body in a straight line from head to heels.",
+        "Lower your chest toward the floor by bending your elbows, keeping them at about 45 degrees to your body.",
+        "Press the floor away and straighten your arms against the pull of the band until you are back in the plank.",
+        "Keep your core tight and your hips level during the whole repetition.",
+        "Complete the planned repetitions, or drop to your knees if you cannot keep your body in one line."
+      ],
+      "instructions_de": [
+        "Lege ein Widerstandsband über deinen oberen Rücken, knapp unterhalb des Nackens, und halte jedes Ende unter der Handfläche der jeweiligen Hand auf dem Boden fest.",
+        "Beginne in der hohen Plank-Position mit den Händen etwas weiter als schulterbreit und dem Körper in einer geraden Linie von Kopf bis Ferse.",
+        "Senke die Brust Richtung Boden, indem du die Ellbogen beugst, und halte sie dabei bei etwa 45 Grad zum Körper.",
+        "Drücke den Boden weg und strecke die Arme gegen den Zug des Bandes, bis du wieder in der Plank-Position bist.",
+        "Halte den Rumpf angespannt und die Hüfte während der ganzen Wiederholung auf einer Höhe.",
+        "Absolviere die geplante Anzahl an Wiederholungen oder geh auf die Knie, wenn du den Körper nicht in einer Linie halten kannst."
+      ],
+      "instructions_es": [
+        "Coloca una banda elástica sobre la parte alta de la espalda, justo debajo del cuello, y sujeta cada extremo bajo la palma de la mano del mismo lado, apoyada en el suelo.",
+        "Empieza en plancha alta con las manos un poco más abiertas que los hombros y el cuerpo en línea recta desde la cabeza hasta los talones.",
+        "Baja el pecho hacia el suelo flexionando los codos, manteniéndolos a unos 45 grados del cuerpo.",
+        "Empuja el suelo y estira los brazos contra la tensión de la banda hasta volver a la plancha.",
+        "Mantén el core firme y las caderas niveladas durante toda la repetición.",
+        "Completa el número de repeticiones previsto, o apoya las rodillas si no puedes mantener el cuerpo en una sola línea."
+      ],
+      "tips_en": [
+        "Start with a lighter band; its tension grows toward the top of the press, where a push-up is already hardest.",
+        "Keep the band across your shoulder blades and off your neck.",
+        "Do not let your hips sag or lift; your body should move as one plank."
+      ],
+      "tips_de": [
+        "Beginne mit einem leichteren Band; seine Spannung wächst zum oberen Punkt des Drückens hin, wo ein Push-Up ohnehin am schwersten ist.",
+        "Halte das Band quer über den Schulterblättern und weg vom Nacken.",
+        "Lass die Hüfte weder durchhängen noch hochgehen; dein Körper soll sich wie ein einziges Brett bewegen."
+      ],
+      "tips_es": [
+        "Empieza con una banda más ligera; su tensión aumenta hacia la parte alta del empuje, donde el push-up ya es más difícil.",
+        "Mantén la banda sobre los omóplatos y lejos del cuello.",
+        "No dejes que las caderas se hundan ni se eleven; el cuerpo debe moverse como una sola plancha."
+      ],
+      "met": 6.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/banded-push-up-start.webp",
+          "peak": "images/flat/banded-push-up-peak.webp"
+        }
+      }
+    },
+    {
       "id": "banded-rear-delt-stretch",
       "name_en": "Banded Rear Delt Stretch",
       "name_de": "Hintere-Schulter-Dehnung mit Band",
@@ -3573,6 +3986,89 @@
         "flat": {
           "start": "images/flat/banded-standing-hip-adduction-start.webp",
           "peak": "images/flat/banded-standing-hip-adduction-peak.webp"
+        }
+      }
+    },
+    {
+      "id": "banded-standing-row",
+      "name_en": "Banded Standing Row",
+      "name_de": "Stehendes Rudern mit Band",
+      "name_es": "Remo de Pie con Banda",
+      "description_en": "A standing row with a resistance band anchored in front of you at about chest height. You pull your elbows back toward your ribs and squeeze your shoulder blades together, then return slowly. It trains the muscles of the upper back and the rear of the shoulders without gym equipment.",
+      "description_de": "Ein Rudern im Stand mit einem Widerstandsband, das vor dir etwa auf Brusthöhe befestigt ist. Du ziehst die Ellbogen zu den Rippen nach hinten und drückst die Schulterblätter zusammen, dann gehst du langsam zurück. Es trainiert die Muskeln des oberen Rückens und der hinteren Schulter ohne Studiogeräte.",
+      "description_es": "Un remo de pie con una banda elástica anclada frente a ti a la altura del pecho. Llevas los codos hacia atrás, hacia las costillas, y juntas los omóplatos, y luego vuelves despacio. Trabaja los músculos de la parte alta de la espalda y la parte posterior de los hombros sin necesidad de equipamiento de gimnasio.",
+      "category": "strength",
+      "force_type": "pull",
+      "mechanic": "compound",
+      "difficulty": "beginner",
+      "equipment": "resistance_band",
+      "body_part": "back",
+      "primary_muscles": [
+        "latissimus_dorsi",
+        "rhomboids"
+      ],
+      "secondary_muscles": [
+        "biceps_brachii",
+        "posterior_deltoid",
+        "trapezius"
+      ],
+      "goals": [
+        "hypertrophy"
+      ],
+      "tags": [
+        "pull_day",
+        "knee_safe",
+        "no_axial_load",
+        "lower_back_safe",
+        "shoulder_safe"
+      ],
+      "variation_group": "row",
+      "is_unilateral": false,
+      "is_bodyweight": false,
+      "instructions_en": [
+        "Anchor a resistance band at about chest height, stand facing it with one end in each hand, and step back until the band is under light tension.",
+        "Stand tall with your feet hip-width apart and your knees slightly bent, with your arms stretched out in front of you.",
+        "Pull your elbows back along your sides and bring your hands toward your lower ribs.",
+        "Squeeze your shoulder blades together at the end of the pull without shrugging.",
+        "Slowly stretch your arms forward again, resisting the band.",
+        "Complete the planned repetitions."
+      ],
+      "instructions_de": [
+        "Befestige ein Widerstandsband etwa auf Brusthöhe, stell dich mit dem Gesicht dazu, ein Ende in jeder Hand, und geh zurück, bis das Band unter leichter Spannung steht.",
+        "Steh aufrecht, die Füße hüftbreit und die Knie leicht gebeugt, die Arme nach vorn gestreckt.",
+        "Ziehe die Ellbogen an den Seiten entlang nach hinten und bringe die Hände zu den unteren Rippen.",
+        "Drücke am Ende des Zuges die Schulterblätter zusammen, ohne die Schultern hochzuziehen.",
+        "Strecke die Arme langsam wieder nach vorn und gib dem Band dabei Widerstand.",
+        "Absolviere die geplante Anzahl an Wiederholungen."
+      ],
+      "instructions_es": [
+        "Ancla una banda elástica a la altura del pecho, colócate frente a ella con un extremo en cada mano y da un paso hacia atrás hasta que la banda quede con una tensión ligera.",
+        "Ponte erguido con los pies separados al ancho de las caderas y las rodillas ligeramente flexionadas, con los brazos estirados al frente.",
+        "Lleva los codos hacia atrás pegados a los costados y acerca las manos a las costillas inferiores.",
+        "Junta los omóplatos al final del tirón sin encoger los hombros.",
+        "Estira los brazos hacia adelante de nuevo despacio, resistiendo a la banda.",
+        "Completa el número de repeticiones previsto."
+      ],
+      "tips_en": [
+        "Lead with your elbows and keep your shoulders down, away from your ears.",
+        "Keep your trunk still; if you lean back to finish the pull, use a lighter band or step closer to the anchor.",
+        "Control the return; the slow release is half of the exercise."
+      ],
+      "tips_de": [
+        "Führe mit den Ellbogen und halte die Schultern tief, weg von den Ohren.",
+        "Halte den Oberkörper ruhig; wenn du dich zurücklehnst, um den Zug zu beenden, nimm ein leichteres Band oder geh näher an den Befestigungspunkt.",
+        "Kontrolliere den Rückweg; das langsame Nachlassen ist die halbe Übung."
+      ],
+      "tips_es": [
+        "Lidera el movimiento con los codos y mantén los hombros bajos, lejos de las orejas.",
+        "Mantén el tronco quieto; si te inclinas hacia atrás para terminar el tirón, usa una banda más ligera o acércate al anclaje.",
+        "Controla la vuelta; la liberación lenta es la mitad del ejercicio."
+      ],
+      "met": 6.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/banded-standing-row-start.webp",
+          "peak": "images/flat/banded-standing-row-peak.webp"
         }
       }
     },
@@ -8969,6 +9465,7 @@
         "lower_back_safe",
         "shoulder_safe"
       ],
+      "variation_group": "shoulder-rotation",
       "is_unilateral": true,
       "is_bodyweight": false,
       "instructions_en": [
@@ -44371,6 +44868,87 @@
         "flat": {
           "start": "images/flat/single-leg-romanian-deadlift-start.webp",
           "peak": "images/flat/single-leg-romanian-deadlift-peak.webp"
+        }
+      }
+    },
+    {
+      "id": "sissy-squat",
+      "name_en": "Sissy Squat",
+      "name_de": "Sissy Squat",
+      "name_es": "Sissy Squat",
+      "description_en": "A bodyweight exercise for the quadriceps. You rise onto your toes, push your knees forward and lean back as you lower, keeping your hips open and your body in one line from knees to shoulders. The knees travel far in front of the toes, which makes it a very demanding exercise for the front of the thigh.",
+      "description_de": "Eine Körpergewichtsübung für den Quadrizeps. Du gehst auf die Zehenspitzen, schiebst die Knie nach vorn und lehnst dich beim Absenken zurück, wobei die Hüfte offen bleibt und dein Körper von den Knien bis zu den Schultern in einer Linie ist. Die Knie wandern weit vor die Zehen, was sie zu einer sehr fordernden Übung für die Oberschenkelvorderseite macht.",
+      "description_es": "Un ejercicio con el peso corporal para los cuádriceps. Te elevas sobre las puntas de los pies, llevas las rodillas hacia adelante y te inclinas hacia atrás al bajar, manteniendo las caderas abiertas y el cuerpo en una sola línea desde las rodillas hasta los hombros. Las rodillas avanzan mucho por delante de los dedos de los pies, lo que lo convierte en un ejercicio muy exigente para la parte delantera del muslo.",
+      "category": "strength",
+      "force_type": "push",
+      "mechanic": "isolation",
+      "difficulty": "advanced",
+      "body_part": "upper_legs",
+      "primary_muscles": [
+        "quadriceps"
+      ],
+      "secondary_muscles": [
+        "hip_flexors",
+        "rectus_abdominis"
+      ],
+      "goals": [
+        "hypertrophy",
+        "strength"
+      ],
+      "tags": [
+        "leg_day",
+        "calisthenics",
+        "no_axial_load",
+        "lower_back_safe",
+        "shoulder_safe"
+      ],
+      "variation_group": "squat",
+      "is_unilateral": false,
+      "is_bodyweight": true,
+      "instructions_en": [
+        "Stand tall with your feet about hip-width apart and your arms stretched out in front of you for balance.",
+        "Rise onto the balls of your feet and keep your hips extended so that your body forms a straight line.",
+        "Bend your knees and let them travel forward and down while you lean your upper body back, keeping the line from knees to shoulders.",
+        "Lower until your knees are close to the floor, or as far as you can control.",
+        "Press through the front of your feet and push your knees back to straighten your legs and stand up again.",
+        "Complete the planned repetitions."
+      ],
+      "instructions_de": [
+        "Steh aufrecht, die Füße etwa hüftbreit und die Arme zum Gleichgewicht nach vorn gestreckt.",
+        "Geh auf die Fußballen und halte die Hüfte gestreckt, sodass dein Körper eine gerade Linie bildet.",
+        "Beuge die Knie und lass sie nach vorn und unten wandern, während du den Oberkörper nach hinten lehnst und die Linie von den Knien bis zu den Schultern hältst.",
+        "Senke dich, bis die Knie nah am Boden sind oder so weit, wie du es kontrollieren kannst.",
+        "Drücke dich über die Vorderfüße hoch und schiebe die Knie nach hinten, um die Beine zu strecken und wieder aufzustehen.",
+        "Absolviere die geplante Anzahl an Wiederholungen."
+      ],
+      "instructions_es": [
+        "Ponte erguido con los pies separados al ancho de las caderas y los brazos estirados al frente para mantener el equilibrio.",
+        "Elévate sobre las plantas de los pies y mantén las caderas extendidas para que el cuerpo forme una línea recta.",
+        "Flexiona las rodillas y deja que avancen hacia adelante y hacia abajo mientras inclinas el torso hacia atrás, manteniendo la línea desde las rodillas hasta los hombros.",
+        "Baja hasta que las rodillas queden cerca del suelo, o hasta donde puedas controlar.",
+        "Empuja con la parte delantera de los pies y lleva las rodillas hacia atrás para estirar las piernas y volver a ponerte de pie.",
+        "Completa el número de repeticiones previsto."
+      ],
+      "tips_en": [
+        "Hold on to a wall or a sturdy post with one hand at first to keep your balance.",
+        "This exercise loads the knees heavily; shorten the range if you feel pain at the front of the knee, and build up gradually.",
+        "Keep your hips pushed forward; if you sit them back it becomes an ordinary squat and the work leaves the quadriceps."
+      ],
+      "tips_de": [
+        "Halte dich anfangs mit einer Hand an einer Wand oder einem stabilen Pfosten fest, um das Gleichgewicht zu halten.",
+        "Diese Übung belastet die Knie stark; verkürze den Bewegungsumfang, wenn du Schmerzen an der Knievorderseite spürst, und steigere dich schrittweise.",
+        "Halte die Hüfte nach vorn geschoben; wenn du sie nach hinten setzt, wird daraus eine gewöhnliche Kniebeuge und die Arbeit verlässt den Quadrizeps."
+      ],
+      "tips_es": [
+        "Al principio sujétate con una mano a una pared o a un poste firme para mantener el equilibrio.",
+        "Este ejercicio carga mucho las rodillas; acorta el recorrido si notas dolor en la parte delantera de la rodilla y progresa poco a poco.",
+        "Mantén las caderas empujadas hacia adelante; si las llevas hacia atrás se convierte en una sentadilla normal y el trabajo sale de los cuádriceps."
+      ],
+      "met": 6.0,
+      "images": {
+        "flat": {
+          "start": "images/flat/sissy-squat-start.webp",
+          "peak": "images/flat/sissy-squat-peak.webp"
         }
       }
     },
